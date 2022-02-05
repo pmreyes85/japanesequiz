@@ -33,6 +33,20 @@ const words = [
     pronunciation: "iie",
     spelling: "iie",
     keyboard: "iie"
+  },
+  {
+    word: "か",
+    meaning: "Mosquito",
+    pronunciation: "ka",
+    spelling: "ka",
+    keyboard: "ka"
+  },
+  {
+    word: "かげ",
+    meaning: "Shadow",
+    pronunciation: "kage",
+    spelling: "kage",
+    keyboard: "kage"
   }
 ];
 
