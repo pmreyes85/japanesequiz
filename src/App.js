@@ -21,8 +21,8 @@ function getNextIndex(index) {
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>My Japanese Quiz</h1>
+      <h2>What is the english word for the japanese word shown?</h2>
       <Values />
     </div>
   );
