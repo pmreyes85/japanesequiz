@@ -23,7 +23,7 @@
   {
     "word": "あおい",
     "meaning": "blue",
-    "pronuncation": "aoi",
+    "pronunciation": "aoi",
     "spelling": "aoi",
     "keyboard": "aoi"
   },
@@ -323,10 +323,10 @@
   },
   {
     "word": "かっこいい",
-    "meaning": "cold",
+    "meaning": "cool",
     "pronunciation": "kakkoi",
     "spelling": "kakkoi",
-    "keyboard": "kakkoi"
+    "keyboard": "kakkoii"
   },
   {
     "word": "じっか",
@@ -448,7 +448,7 @@
     "keyboard": "nani"
   },
   {
-    "word": "いに",
+    "word": "いぬ",
     "meaning": "dog",
     "pronunciation": "inu",
     "spelling": "inu",
@@ -495,5 +495,68 @@
     "pronunciation": "onegai",
     "spelling": "onegai",
     "keyboard": "onegai"
+  },
+  {
+    "word": "かたな",
+    "meaning": "sword",
+    "pronunciation": "katana",
+    "spelling": "katana",
+    "keyboard": "katana"
+  },
+  {
+    "word": "はな",
+    "meaning": "flower",
+    "pronunciation": "hana",
+    "spelling": "hana",
+    "keyboard": "hana"
+  },
+  {
+    "word": "ひざ",
+    "meaning": "knee",
+    "pronunciation": "hiza",
+    "spelling": "hiza",
+    "keyboard": "hiza"
+  },
+  {
+    "word": "はし",
+    "meaning": "chopsticks or bridge",
+    "pronunciation": "hashi",
+    "spelling": "hashi",
+    "keyboard": "hashi"
+  },
+  {
+    "word": "ふしぎ",
+    "meaning": "mysterious",
+    "pronunciation": "fushigi",
+    "spelling": "fushigi",
+    "keyboard": "fushigi"
+  },
+  {
+    "word": "はなび",
+    "meaning": "fireworks",
+    "pronunciation": "hanabi",
+    "spelling": "hanabi",
+    "keyboard": "hanabi"
+  },
+  {
+    "word": "ふくざつ",
+    "meaning": "complicated",
+    "pronunciation": "fukuzatsu",
+    "spelling": "fukuzatsu",
+    "keyboard": "fukuzatsu"
+  },
+  {
+    "word": "ひきだし",
+    "meaning": "drawer",
+    "pronunciation": "hikidashi",
+    "spelling": "hikidashi",
+    "keyboard": "hikidashi"
+  },
+  {
+    "word": "けっぺき",
+    "meaning": "perfectionist",
+    "pronunciation": "keppeki",
+    "spelling": "keppeki",
+    "keyboard": "keppeki"
   }
 ]
