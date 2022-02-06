@@ -1,6 +1,8 @@
 import "./styles.css";
 import { useState } from "react";
-import words from "./Words";
+import words from "./data";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { Form, Row, Button, Stack, Container } from "react-bootstrap";
 
 function shuffleArray(array) {
   for (var i = array.length - 1; i > 0; i--) {
@@ -32,56 +34,63 @@ function Values() {
   const [answerVisible, setAnswerVisible] = useState(false);
 
   return (
-    <>
-      <span>
+    <Form className="mx-auto w-50">
+      <Form.Label>
         Question {index + 1} of {shuffledArray.length}
-      </span>
-      <br />
-      <span>Word: </span>
-      <span>{shuffledArray[index].word}</span>
-      <br />
-      <span>Meaning: </span>
-      <span style={{ visibility: answerVisible ? "visible" : "hidden" }}>
-        {shuffledArray[index].meaning}
-      </span>
-      <br />
-      <span>Pronunciation: </span>
-      <span style={{ visibility: answerVisible ? "visible" : "hidden" }}>
-        {shuffledArray[index].pronunciation}
-      </span>
-      <br />
-      <span>Spelling: </span>
-      <span style={{ visibility: answerVisible ? "visible" : "hidden" }}>
-        {shuffledArray[index].spelling}
-      </span>
-      <br />
-      <span>Keyboard: </span>
-      <span style={{ visibility: answerVisible ? "visible" : "hidden" }}>
-        {shuffledArray[index].keyboard}
-      </span>
-      <br />
-      <br />
-      <button
-        onClick={function () {
-          setIndex(getNextIndex(index));
-          setAnswerVisible(false);
-        }}
-      >
-        Next Word
-      </button>
-      &nbsp;&nbsp;
-      <button onClick={() => setAnswerVisible(!answerVisible)}>
-        {answerVisible ? "Hide Answers" : "Show Answers"}
-      </button>
-      &nbsp;&nbsp;
-      <button
-        onClick={() => {
-          setShuffledArray(shuffleArray(words));
-          setIndex(0);
-        }}
-      >
-        Shuffle
-      </button>
-    </>
+      </Form.Label>
+      <Form.Group as={Row}>
+        <Form.Label column>Word</Form.Label>
+        <Form.Label column>{shuffledArray[index].word}</Form.Label>
+      </Form.Group>
+      <Form.Group as={Row}>
+        <Form.Label column>Meaning</Form.Label>
+        <Form.Label column className={answerVisible ? "visible" : "invisible"}>
+          {shuffledArray[index].meaning}
+        </Form.Label>
+      </Form.Group>
+      <Form.Group as={Row}>
+        <Form.Label column>Pronunciation</Form.Label>
+        <Form.Label column className={answerVisible ? "visible" : "invisible"}>
+          {shuffledArray[index].pronunciation}
+        </Form.Label>
+      </Form.Group>
+      <Form.Group as={Row}>
+        <Form.Label column>Spelling</Form.Label>
+        <Form.Label column className={answerVisible ? "visible" : "invisible"}>
+          {shuffledArray[index].spelling}
+        </Form.Label>
+      </Form.Group>
+      <Form.Group as={Row} className="mb-3">
+        <Form.Label column>Keyboard</Form.Label>
+        <Form.Label column className={answerVisible ? "visible" : "invisible"}>
+          {shuffledArray[index].keyboard}
+        </Form.Label>
+      </Form.Group>
+      <Stack direction="horizontal" gap={2}>
+        <Button
+          onClick={function () {
+            setIndex(getNextIndex(index));
+            setAnswerVisible(false);
+          }}
+        >
+          Next Word
+        </Button>
+        <Button
+          variant="secondary"
+          onClick={() => setAnswerVisible(!answerVisible)}
+        >
+          {answerVisible ? "Hide Answers" : "Show Answers"}
+        </Button>
+        <Button
+          variant="info"
+          onClick={() => {
+            setShuffledArray(shuffleArray(words));
+            setIndex(0);
+          }}
+        >
+          Shuffle
+        </Button>
+      </Stack>
+    </Form>
   );
 }

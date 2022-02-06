@@ -1,0 +1,394 @@
+[
+  {
+    "word": "あい",
+    "meaning": "love",
+    "pronunciation": "ai",
+    "spelling": "ai",
+    "keyboard": "ai"
+  },
+  {
+    "word": "う",
+    "meaning": "stomach",
+    "pronunciation": "u",
+    "spelling": "u",
+    "keyboard": "u"
+  },
+  {
+    "word": "うえ",
+    "meaning": "up",
+    "pronunciation": "ue",
+    "spelling": "ue",
+    "keyboard": "ue"
+  },
+  {
+    "word": "あおい",
+    "meaning": "Blue",
+    "pronuncation": "aoi",
+    "spelling": "aoi",
+    "keyboard": "aoi"
+  },
+  {
+    "word": "いいえ",
+    "meaning": "No",
+    "pronunciation": "iie",
+    "spelling": "iie",
+    "keyboard": "iie"
+  },
+  {
+    "word": "か",
+    "meaning": "Mosquito",
+    "pronunciation": "ka",
+    "spelling": "ka",
+    "keyboard": "ka"
+  },
+  {
+    "word": "かげ",
+    "meaning": "Shadow",
+    "pronunciation": "kage",
+    "spelling": "kage",
+    "keyboard": "kage"
+  },
+  {
+    "word": "すし",
+    "meaning": "Sushi",
+    "pronunciation": "sushi",
+    "spelling": "sushi",
+    "keyboard": "sushi"
+  },
+  {
+    "word": "きく",
+    "meaning": "To Listen",
+    "pronunciation": "kiku",
+    "spelling": "kiku",
+    "keyboard": "kiku"
+  },
+  {
+    "word": "かく",
+    "meaning": "To Write",
+    "pronunciation": "kaku",
+    "spelling": "kaku",
+    "keyboard": "kaku"
+  },
+  {
+    "word": "こえ",
+    "meaning": "Voice",
+    "pronunciation": "koe",
+    "spelling": "koe",
+    "keyboard": "koe"
+  },
+  {
+    "word": "かぎ",
+    "meaning": "Key",
+    "pronunciation": "kagi",
+    "spelling": "kagi",
+    "keyboard": "kagi"
+  },
+  {
+    "word": "きおく",
+    "meaning": "Memory",
+    "pronunciation": "kioku",
+    "spelling": "kioku",
+    "keyboard": "kioku"
+  },
+  {
+    "word": "えいが",
+    "meaning": "Movie",
+    "pronunciation": "eiga",
+    "spelling": "eiga",
+    "keyboard": "eiga"
+  },
+  {
+    "word": "おおきい",
+    "meaning": "Big",
+    "pronunciation": "ookii",
+    "spelling": "ookii",
+    "keyboard": "ookii"
+  },
+  {
+    "word": "ず",
+    "meaning": "Diagram",
+    "pronunciation": "zu",
+    "spelling": "zu",
+    "keyboard": "zu"
+  },
+  {
+    "word": "じこ",
+    "meaning": "Accident",
+    "pronunciation": "jiko",
+    "spelling": "jiko",
+    "keyboard": "jiko"
+  },
+  {
+    "word": "すき",
+    "meaning": "Like",
+    "pronunciation": "suki",
+    "spelling": "suki",
+    "keyboard": "suki"
+  },
+  {
+    "word": "さく",
+    "meaning": "To Bloom",
+    "pronunciation": "saku",
+    "spelling": "saku",
+    "keyboard": "saku"
+  },
+  {
+    "word": "ぞう",
+    "meaning": "Elephant",
+    "pronunciation": "zou",
+    "spelling": "zou",
+    "keyboard": "zou"
+  },
+  {
+    "word": "おかし",
+    "meaning": "Sweets",
+    "pronunciation": "okashi",
+    "spelling": "okashi",
+    "keyboard": "okashi"
+  },
+  {
+    "word": "おさけ",
+    "meaning": "Alcohol",
+    "pronunciation": "osake",
+    "spelling": "osake",
+    "keyboard": "osake"
+  },
+  {
+    "word": "さいご",
+    "meaning": "Last",
+    "pronunciation": "saigo",
+    "spelling": "saigo",
+    "keyboard": "saigo"
+  },
+  {
+    "word": "そうぞう",
+    "meaning": "Imagination",
+    "pronunciation": "souzou",
+    "spelling": "souzou",
+    "keyboard": "souzou"
+  },
+  {
+    "word": "こうこうせい",
+    "meaning": "High School Student",
+    "pronunciation": "koukousei",
+    "spelling": "koukousei",
+    "keyboard": "koukousei"
+  },
+  {
+    "word": "かさ",
+    "meaning": "Umbrella",
+    "pronunciation": "kasa",
+    "spelling": "kasa",
+    "keyboard": "kasa"
+  },
+  {
+    "word": "おす",
+    "meaning": "To Push",
+    "pronunciation": "uso",
+    "spelling": "uso",
+    "keyboard": "uso"
+  },
+  {
+    "word": "きし",
+    "meaning": "Knight",
+    "pronunciation": "kishi",
+    "spelling": "kishi",
+    "keyboard": "kishi"
+  },
+  {
+    "word": "すぐ",
+    "meaning": "Immediately",
+    "pronunciation": "sugu",
+    "spelling": "sugu",
+    "keyboard": "sugu"
+  },
+  {
+    "word": "けす",
+    "meaning": "To Erase",
+    "pronunciation": "kesu",
+    "spelling": "kesu",
+    "keyboard": "kesu"
+  },
+  {
+    "word": "くじ",
+    "meaning": "Lottery",
+    "pronunciation": "kuji",
+    "spelling": "kuji",
+    "keyboard": "kuji"
+  },
+  {
+    "word": "しお",
+    "meaning": "Salt",
+    "pronunciation": "shio",
+    "spelling": "shio",
+    "keyboard": "shio"
+  },
+  {
+    "word": "けしき",
+    "meaning": "Consciousness",
+    "pronunciation": "keshiki",
+    "spelling": "keshiki",
+    "keyboard": "keshiki"
+  },
+  {
+    "word": "しぐさ",
+    "meaning": "Gesture or Mannerism",
+    "pronunciation": "shigusa",
+    "spelling": "shigusa",
+    "keyboard": "shigusa"
+  },
+  {
+    "word": "さそう",
+    "meaning": "To Invite",
+    "pronunciation": "sasou",
+    "spelling": "sasou",
+    "keyboard": "sasou"
+  },
+  {
+    "word": "おこす",
+    "meaning": "To Wake Someone Up or To Cause To Happen",
+    "pronunciation": "okosu",
+    "spelling": "okosu",
+    "keyboard": "okosu"
+  },
+  {
+    "word": "すこし",
+    "meaning": "A Little",
+    "pronunciation": "sukoshi",
+    "spelling": "sukoshi",
+    "keyboard": "sukoshi"
+  },
+  {
+    "word": "さがす",
+    "meaning": "To Search",
+    "pronunciation": "sagasu",
+    "spelling": "sagasu",
+    "keyboard": "sagasu"
+  },
+  {
+    "word": "しかく",
+    "meaning": "Square",
+    "pronunciation": "shikaku",
+    "spelling": "shikaku",
+    "keyboard": "shikaku"
+  },
+  {
+    "word": "かえす",
+    "meaning": "To Return",
+    "pronunciation": "kaesu",
+    "spelling": "kaesu",
+    "keyboard": "kaesu"
+  },
+  {
+    "word": "うさぎ",
+    "meaning": "Rabbit",
+    "pronunciation": "usagi",
+    "spelling": "usagi",
+    "keyboard": "usagi"
+  },
+  {
+    "word": "さいせい",
+    "meaning": "Playback",
+    "pronunciation": "saisei",
+    "spelling": "saisei",
+    "keyboard": "saisei"
+  },
+  {
+    "word": "おかしい",
+    "meaning": "Strange",
+    "pronunciation": "okashii",
+    "spelling": "okashii",
+    "keyboard": "okashii"
+  },
+  {
+    "word": "がくせい",
+    "meaning": "Student",
+    "pronunciation": "gakusei",
+    "spelling": "gakusei",
+    "keyboard": "gakusei"
+  },
+  {
+    "word": "ちいさい",
+    "meaning": "Small",
+    "pronunciation": "chiisai",
+    "spelling": "chiisai",
+    "keyboard": "chiisai"
+  },
+  {
+    "word": "ちいさいつ",
+    "meaning": "Small つ",
+    "pronunciation": "chiisaitsu",
+    "spelling": "chiisaitsu",
+    "keyboard": "chiisaitsu"
+  },
+  {
+    "word": "かっこいい",
+    "meaning": "Cold",
+    "pronunciation": "kakkoi",
+    "spelling": "kakkoi",
+    "keyboard": "kakkoi"
+  },
+  {
+    "word": "じっか",
+    "meaning": "One's Family Home",
+    "pronunciation": "jikka",
+    "spelling": "jikka",
+    "keyboard": "jikka"
+  },
+  {
+    "word": "かった",
+    "meaning": "Bought",
+    "pronunciation": "katta",
+    "spelling": "katta",
+    "keyboard": "katta"
+  },
+  {
+    "word": "かこ",
+    "meaning": "Past",
+    "pronunciation": "kako",
+    "spelling": "kako",
+    "keyboard": "kako"
+  },
+  {
+    "word": "かた",
+    "meaning": "Shoulder",
+    "pronunciation": "kata",
+    "spelling": "kata",
+    "keyboard": "kata"
+  },
+  {
+    "word": "て",
+    "meaning": "Hand",
+    "pronunciation": "te",
+    "spelling": "te",
+    "keyboard": "te"
+  },
+  {
+    "word": "くつ",
+    "meaning": "Shoes",
+    "pronunciation": "kutsu",
+    "spelling": "kutsu",
+    "keyboard": "kutsu"
+  },
+  {
+    "word": "ちず",
+    "meaning": "Map",
+    "pronunciation": "chizu",
+    "spelling": "chizu",
+    "keyboard": "chizu"
+  },
+  {
+    "word": "でし",
+    "meaning": "Apprentice",
+    "pronunciation": "deshi",
+    "spelling": "deshi",
+    "keyboard": "deshi"
+  },
+  {
+    "word": "たつ",
+    "meaning": "To Stand",
+    "pronunciation": "tatsu",
+    "spelling": "tatsu",
+    "keyboard": "tatsu"
+  }
+]
