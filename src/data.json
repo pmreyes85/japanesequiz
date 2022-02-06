@@ -22,28 +22,28 @@
   },
   {
     "word": "あおい",
-    "meaning": "Blue",
+    "meaning": "blue",
     "pronuncation": "aoi",
     "spelling": "aoi",
     "keyboard": "aoi"
   },
   {
     "word": "いいえ",
-    "meaning": "No",
+    "meaning": "no",
     "pronunciation": "iie",
     "spelling": "iie",
     "keyboard": "iie"
   },
   {
     "word": "か",
-    "meaning": "Mosquito",
+    "meaning": "mosquito",
     "pronunciation": "ka",
     "spelling": "ka",
     "keyboard": "ka"
   },
   {
     "word": "かげ",
-    "meaning": "Shadow",
+    "meaning": "shadow",
     "pronunciation": "kage",
     "spelling": "kage",
     "keyboard": "kage"
@@ -190,205 +190,310 @@
   },
   {
     "word": "きし",
-    "meaning": "Knight",
+    "meaning": "knight",
     "pronunciation": "kishi",
     "spelling": "kishi",
     "keyboard": "kishi"
   },
   {
     "word": "すぐ",
-    "meaning": "Immediately",
+    "meaning": "immediately",
     "pronunciation": "sugu",
     "spelling": "sugu",
     "keyboard": "sugu"
   },
   {
     "word": "けす",
-    "meaning": "To Erase",
+    "meaning": "to erase",
     "pronunciation": "kesu",
     "spelling": "kesu",
     "keyboard": "kesu"
   },
   {
     "word": "くじ",
-    "meaning": "Lottery",
+    "meaning": "lottery",
     "pronunciation": "kuji",
     "spelling": "kuji",
     "keyboard": "kuji"
   },
   {
     "word": "しお",
-    "meaning": "Salt",
+    "meaning": "salt",
     "pronunciation": "shio",
     "spelling": "shio",
     "keyboard": "shio"
   },
   {
     "word": "けしき",
-    "meaning": "Consciousness",
+    "meaning": "consciousness",
     "pronunciation": "keshiki",
     "spelling": "keshiki",
     "keyboard": "keshiki"
   },
   {
     "word": "しぐさ",
-    "meaning": "Gesture or Mannerism",
+    "meaning": "gesture or mannerism",
     "pronunciation": "shigusa",
     "spelling": "shigusa",
     "keyboard": "shigusa"
   },
   {
     "word": "さそう",
-    "meaning": "To Invite",
+    "meaning": "to invite",
     "pronunciation": "sasou",
     "spelling": "sasou",
     "keyboard": "sasou"
   },
   {
     "word": "おこす",
-    "meaning": "To Wake Someone Up or To Cause To Happen",
+    "meaning": "to wake someone up or to cause to happen",
     "pronunciation": "okosu",
     "spelling": "okosu",
     "keyboard": "okosu"
   },
   {
     "word": "すこし",
-    "meaning": "A Little",
+    "meaning": "a little",
     "pronunciation": "sukoshi",
     "spelling": "sukoshi",
     "keyboard": "sukoshi"
   },
   {
     "word": "さがす",
-    "meaning": "To Search",
+    "meaning": "to search",
     "pronunciation": "sagasu",
     "spelling": "sagasu",
     "keyboard": "sagasu"
   },
   {
     "word": "しかく",
-    "meaning": "Square",
+    "meaning": "square",
     "pronunciation": "shikaku",
     "spelling": "shikaku",
     "keyboard": "shikaku"
   },
   {
     "word": "かえす",
-    "meaning": "To Return",
+    "meaning": "to return",
     "pronunciation": "kaesu",
     "spelling": "kaesu",
     "keyboard": "kaesu"
   },
   {
     "word": "うさぎ",
-    "meaning": "Rabbit",
+    "meaning": "rabbit",
     "pronunciation": "usagi",
     "spelling": "usagi",
     "keyboard": "usagi"
   },
   {
     "word": "さいせい",
-    "meaning": "Playback",
+    "meaning": "playback",
     "pronunciation": "saisei",
     "spelling": "saisei",
     "keyboard": "saisei"
   },
   {
     "word": "おかしい",
-    "meaning": "Strange",
+    "meaning": "strange",
     "pronunciation": "okashii",
     "spelling": "okashii",
     "keyboard": "okashii"
   },
   {
     "word": "がくせい",
-    "meaning": "Student",
+    "meaning": "student",
     "pronunciation": "gakusei",
     "spelling": "gakusei",
     "keyboard": "gakusei"
   },
   {
     "word": "ちいさい",
-    "meaning": "Small",
+    "meaning": "small",
     "pronunciation": "chiisai",
     "spelling": "chiisai",
     "keyboard": "chiisai"
   },
   {
     "word": "ちいさいつ",
-    "meaning": "Small つ",
+    "meaning": "small つ",
     "pronunciation": "chiisaitsu",
     "spelling": "chiisaitsu",
     "keyboard": "chiisaitsu"
   },
   {
     "word": "かっこいい",
-    "meaning": "Cold",
+    "meaning": "cold",
     "pronunciation": "kakkoi",
     "spelling": "kakkoi",
     "keyboard": "kakkoi"
   },
   {
     "word": "じっか",
-    "meaning": "One's Family Home",
+    "meaning": "one's family home",
     "pronunciation": "jiika",
     "spelling": "jikka",
     "keyboard": "jikka"
   },
   {
     "word": "かった",
-    "meaning": "Bought",
+    "meaning": "bought",
     "pronunciation": "kaata",
     "spelling": "katta",
     "keyboard": "katta"
   },
   {
     "word": "かこ",
-    "meaning": "Past",
+    "meaning": "past",
     "pronunciation": "kako",
     "spelling": "kako",
     "keyboard": "kako"
   },
   {
     "word": "かた",
-    "meaning": "Shoulder",
+    "meaning": "shoulder",
     "pronunciation": "kata",
     "spelling": "kata",
     "keyboard": "kata"
   },
   {
     "word": "て",
-    "meaning": "Hand",
+    "meaning": "hand",
     "pronunciation": "te",
     "spelling": "te",
     "keyboard": "te"
   },
   {
     "word": "くつ",
-    "meaning": "Shoes",
+    "meaning": "shoes",
     "pronunciation": "kutsu",
     "spelling": "kutsu",
     "keyboard": "kutsu"
   },
   {
     "word": "ちず",
-    "meaning": "Map",
+    "meaning": "map",
     "pronunciation": "chizu",
     "spelling": "chizu",
     "keyboard": "chizu"
   },
   {
     "word": "でし",
-    "meaning": "Apprentice",
+    "meaning": "apprentice",
     "pronunciation": "deshi",
     "spelling": "deshi",
     "keyboard": "deshi"
   },
   {
     "word": "たつ",
-    "meaning": "To Stand",
+    "meaning": "to stand",
     "pronunciation": "tatsu",
     "spelling": "tatsu",
     "keyboard": "tatsu"
+  },
+  {
+    "word": "とおい",
+    "meaning": "far",
+    "pronunciation": "tooi",
+    "spelling": "tooi",
+    "keyboard": "tooi"
+  },
+  {
+    "word": "つづく",
+    "meaning": "to continue",
+    "pronunciation": "tsudzuku",
+    "spelling": "tsudzuku",
+    "keyboard": "tsuduku"
+  },
+  {
+    "word": "どっち",
+    "meaning": "which",
+    "pronunciation": "doochi",
+    "spelling": "dotchi",
+    "keyboard": "docchi"
+  },
+  {
+    "word": "だいがく",
+    "meaning": "university",
+    "pronunciation": "daigaku",
+    "spelling": "daigaku",
+    "keyboard": "daigaku"
+  },
+  {
+    "word": "あさって",
+    "meaning": "the day after tomorrow",
+    "pronunciation": "asaate",
+    "spelling": "asatte",
+    "keyboard": "asatte"
+  },
+  {
+    "word": "おちつく",
+    "meaning": "to calm down",
+    "pronunciation": "ochitsuku",
+    "spelling": "ochitsuku",
+    "keyboard": "ochitsuku"
+  },
+  {
+    "word": "じ",
+    "meaning": "letter or character",
+    "pronunciation": "ji",
+    "spelling": "ji",
+    "keyboard": "ji"
+  },
+  {
+    "word": "なに",
+    "meaning": "what",
+    "pronunciation": "nani",
+    "spelling": "nani",
+    "keyboard": "nani"
+  },
+  {
+    "word": "いに",
+    "meaning": "dog",
+    "pronunciation": "inu",
+    "spelling": "inu",
+    "keyboard": "inu"
+  },
+  {
+    "word": "ねこ",
+    "meaning": "cat",
+    "pronunciation": "neko",
+    "spelling": "neko",
+    "keyboard": "neko"
+  },
+  {
+    "word": "にじ",
+    "meaning": "rainbow",
+    "pronunciation": "niji",
+    "spelling": "niji",
+    "keyboard": "niji"
+  },
+  {
+    "word": "おかね",
+    "meaning": "money",
+    "pronunciation": "okane",
+    "spelling": "okane",
+    "keyboard": "okane"
+  },
+  {
+    "word": "せなか",
+    "meaning": "upper back",
+    "pronunciation": "senaka",
+    "spelling": "senaka",
+    "keyboard": "senaka"
+  },
+  {
+    "word": "なっとう",
+    "meaning": "fermented soybeans",
+    "pronunciation": "naato",
+    "spelling": "natto",
+    "keyboard": "nattou"
+  },
+  {
+    "word": "おねがい",
+    "meaning": "'Please!' or a request",
+    "pronunciation": "onegai",
+    "spelling": "onegai",
+    "keyboard": "onegai"
   }
 ]
