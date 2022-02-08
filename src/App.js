@@ -2,7 +2,7 @@ import "./styles.css";
 import { useState } from "react";
 import words from "./data";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Form, Row, Button, Stack, Container } from "react-bootstrap";
+import { Form, Row, Button, Stack } from "react-bootstrap";
 
 function shuffleArray(array) {
   for (var i = array.length - 1; i > 0; i--) {
@@ -22,7 +22,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>My Japanese Quiz</h1>
-      <h2>What is the english word for the japanese word shown?</h2>
+      <h2>What is the English for the Japanese word shown?</h2>
       <Values />
     </div>
   );
@@ -38,10 +38,9 @@ function Values() {
       <Form.Label>
         Question {index + 1} of {shuffledArray.length}
       </Form.Label>
-      <Form.Group as={Row}>
-        <Form.Label column>Word</Form.Label>
-        <Form.Label column>{shuffledArray[index].word}</Form.Label>
-      </Form.Group>
+      <Row>
+        <p className="h1">{shuffledArray[index].word}</p>
+      </Row>
       <Form.Group as={Row}>
         <Form.Label column>Meaning</Form.Label>
         <Form.Label column className={answerVisible ? "visible" : "invisible"}>

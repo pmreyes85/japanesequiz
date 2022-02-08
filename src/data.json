@@ -527,7 +527,7 @@
   {
     "word": "ふしぎ",
     "meaning": "mysterious",
-    "pronunciation": "fushigi",
+    "pronunciation": "hushigi",
     "spelling": "fushigi",
     "keyboard": "fushigi"
   },
@@ -541,7 +541,7 @@
   {
     "word": "ふくざつ",
     "meaning": "complicated",
-    "pronunciation": "fukuzatsu",
+    "pronunciation": "hukuzatsu",
     "spelling": "fukuzatsu",
     "keyboard": "fukuzatsu"
   },
@@ -558,5 +558,89 @@
     "pronunciation": "keppeki",
     "spelling": "keppeki",
     "keyboard": "keppeki"
+  },
+  {
+    "word": "ちび",
+    "meaning": "little",
+    "pronunciation": "chibi",
+    "spelling": "chibi",
+    "keyboard": "chibi"
+  },
+  {
+    "word": "め",
+    "meaning": "eye",
+    "pronunciation": "me",
+    "spelling": "me",
+    "keyboard": "me"
+  },
+  {
+    "word": "まち",
+    "meaning": "town or city",
+    "pronunciation": "machi",
+    "spelling": "machi",
+    "keyboard": "machi"
+  },
+  {
+    "word": "もち",
+    "meaning": "rice cake",
+    "pronunciation": "mochi",
+    "spelling": "mochi",
+    "keyboard": "mochi"
+  },
+  {
+    "word": "あめ",
+    "meaning": "rain or candy - depending on pronunciation",
+    "pronunciation": "rain = ame (slow) or candy = ame (fast)",
+    "spelling": "ame",
+    "keyboard": "ame"
+  },
+  {
+    "word": "あたま",
+    "meaning": "head",
+    "pronunciation": "atama",
+    "spelling": "atama",
+    "keyboard": "atama"
+  },
+  {
+    "word": "きもの",
+    "meaning": "something you wear",
+    "pronunciation": "kimono",
+    "spelling": "kimono",
+    "keyboard": "kimono"
+  },
+  {
+    "word": "ためいき",
+    "meaning": "sigh",
+    "pronunciation": "tameiki",
+    "spelling": "tameiki",
+    "keyboard": "tameiki"
+  },
+  {
+    "word": "まいにち",
+    "meaning": "everyday",
+    "pronunciation": "mainichi",
+    "spelling": "mainichi",
+    "keyboard": "mainichi"
+  },
+  {
+    "word": "むずかしい",
+    "meaning": "difficult",
+    "pronunciation": "muzukashii",
+    "spelling": "muzukashii",
+    "keyboard": "muzukashii"
+  },
+  {
+    "word": "うなぎ",
+    "meaning": "eel",
+    "pronunciation": "unagi",
+    "spelling": "unagi",
+    "keyboard": "unagi"
+  },
+  {
+    "word": "くま",
+    "meaning": "bear",
+    "pronunciation": "kuma",
+    "spelling": "kuma",
+    "keyboard": "kuma"
   }
 ]
