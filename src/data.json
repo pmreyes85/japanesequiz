@@ -161,13 +161,6 @@
     "keyboard": "saigo"
   },
   {
-    "word": "そうぞう",
-    "meaning": "imagination",
-    "pronunciation": "souzou",
-    "spelling": "souzou",
-    "keyboard": "souzou"
-  },
-  {
     "word": "こうこうせい",
     "meaning": "high school student",
     "pronunciation": "koukousei",
@@ -224,13 +217,6 @@
     "keyboard": "shio"
   },
   {
-    "word": "けしき",
-    "meaning": "consciousness",
-    "pronunciation": "keshiki",
-    "spelling": "keshiki",
-    "keyboard": "keshiki"
-  },
-  {
     "word": "しぐさ",
     "meaning": "gesture or mannerism",
     "pronunciation": "shigusa",
@@ -285,13 +271,6 @@
     "pronunciation": "usagi",
     "spelling": "usagi",
     "keyboard": "usagi"
-  },
-  {
-    "word": "さいせい",
-    "meaning": "playback",
-    "pronunciation": "saisei",
-    "spelling": "saisei",
-    "keyboard": "saisei"
   },
   {
     "word": "おかしい",
@@ -378,13 +357,6 @@
     "keyboard": "chizu"
   },
   {
-    "word": "でし",
-    "meaning": "apprentice",
-    "pronunciation": "deshi",
-    "spelling": "deshi",
-    "keyboard": "deshi"
-  },
-  {
     "word": "たつ",
     "meaning": "to stand",
     "pronunciation": "tatsu",
@@ -395,7 +367,7 @@
     "word": "とおい",
     "meaning": "far",
     "pronunciation": "tooi",
-    "spelling": "tooi",
+    "spelling": "tōi",
     "keyboard": "tooi"
   },
   {
@@ -553,13 +525,6 @@
     "keyboard": "hikidashi"
   },
   {
-    "word": "けっぺき",
-    "meaning": "perfectionist",
-    "pronunciation": "keppeki",
-    "spelling": "keppeki",
-    "keyboard": "keppeki"
-  },
-  {
     "word": "ちび",
     "meaning": "little",
     "pronunciation": "chibi",
@@ -642,5 +607,278 @@
     "pronunciation": "kuma",
     "spelling": "kuma",
     "keyboard": "kuma"
+  },
+  {
+    "word": "はく",
+    "meaning": "foil or white",
+    "pronunciation": "haku",
+    "spelling": "haku",
+    "keyboard": "haku"
+  },
+  {
+    "word": "ねじ",
+    "meaning": "screw or whirl or twist or wrench",
+    "pronunciation": "neji",
+    "spelling": "neji",
+    "keyboard": "neji"
+  },
+  {
+    "word": "つなみ",
+    "meaning": "tsunami",
+    "pronunciation": "tsunami",
+    "spelling": "tsunami",
+    "keyboard": "tsunami"
+  },
+  {
+    "word": "きつね",
+    "meaning": "fox",
+    "pronunciation": "kitsune",
+    "spelling": "kitsune",
+    "keyboard": "kitsune"
+  },
+  {
+    "word": "のばし",
+    "meaning": "to grow or extension",
+    "pronunciation": "nobashi",
+    "spelling": "nobashi",
+    "keyboard": "nobashi"
+  },
+  {
+    "word": "かみ",
+    "meaning": "hair or paper or god",
+    "pronunciation": "kami",
+    "spelling": "kami",
+    "keyboard": "kami"
+  },
+  {
+    "word": "かかし",
+    "meaning": "scarecrow",
+    "pronunciation": "kakashi",
+    "spelling": "kakashi",
+    "keyboard": "kakashi"
+  },
+  {
+    "word": "はたけ",
+    "meaning": "farmland or field",
+    "pronunciation": "hatake",
+    "spelling": "hatake",
+    "keyboard": "hatake"
+  },
+  {
+    "word": "いちご",
+    "meaning": "strawberry",
+    "pronunciation": "ichigo",
+    "spelling": "ichigo",
+    "keyboard": "ichigo"
+  },
+  {
+    "word": "いたち",
+    "meaning": "weasel",
+    "pronunciation": "itachi",
+    "spelling": "itachi",
+    "keyboard": "itachi"
+  },
+  {
+    "word": "きさめ",
+    "meaning": "shark",
+    "pronunciation": "kisame",
+    "spelling": "kisame",
+    "keyboard": "kisame"
+  },
+  {
+    "word": "さけ",
+    "meaning": "sake or salmon",
+    "pronunciation": "sake",
+    "spelling": "sake",
+    "keyboard": "sake"
+  },
+  {
+    "word": "さる",
+    "meaning": "monkey",
+    "pronunciation": "saru",
+    "spelling": "saru",
+    "keyboard": "saru"
+  },
+  {
+    "word": "はれ",
+    "meaning": "sunny, clear weather",
+    "pronunciation": "hare",
+    "spelling": "hare",
+    "keyboard": "hare"
+  },
+  {
+    "word": "らく",
+    "meaning": "convenient or comfortable",
+    "pronunciation": "raku",
+    "spelling": "raku",
+    "keyboard": "raku"
+  },
+  {
+    "word": "おふろ",
+    "meaning": "bath",
+    "pronunciation": "ofuro",
+    "spelling": "ofuro",
+    "keyboard": "ofuro"
+  },
+  {
+    "word": "くすり",
+    "meaning": "medicine",
+    "pronunciation": "kusuri",
+    "spelling": "kusuri",
+    "keyboard": "kusuri"
+  },
+  {
+    "word": "おにぎり",
+    "meaning": "onigiri",
+    "pronunciation": "onigiri",
+    "spelling": "onigiri",
+    "keyboard": "onigiri"
+  },
+  {
+    "word": "ぬいぐるみ",
+    "meaning": "stuffed toy",
+    "pronunciation": "nuigurumi",
+    "spelling": "nuigurumi",
+    "keyboard": "nuigurumi"
+  },
+  {
+    "word": "まる",
+    "meaning": "circle",
+    "pronunciation": "maru",
+    "spelling": "maru",
+    "keyboard": "maru"
+  },
+  {
+    "word": "しかまる",
+    "meaning": "squat",
+    "pronunciation": "shikamaru",
+    "spelling": "shikamaru",
+    "keyboard": "shikamaru"
+  },
+  {
+    "word": "ぬる",
+    "meaning": "slimy",
+    "pronunciation": "nuru",
+    "spelling": "nuru",
+    "keyboard": "nuru"
+  },
+  {
+    "word": "ぱいずり",
+    "meaning": "fucking",
+    "pronunciation": "paizuri",
+    "spelling": "paizuri",
+    "keyboard": "paizuri"
+  },
+  {
+    "word": "とび",
+    "meaning": "jump",
+    "pronunciation": "tobi",
+    "spelling": "tobi",
+    "keyboard": "tobi"
+  },
+  {
+    "word": "さそり",
+    "meaning": "scorpion",
+    "pronunciation": "sasori",
+    "spelling": "sasori",
+    "keyboard": "sasori"
+  },
+  {
+    "word": "とどろき",
+    "meaning": "to roar",
+    "pronunciation": "todoroki",
+    "spelling": "todoroki",
+    "keyboard": "toboroki"
+  },
+  {
+    "word": "おいろけ",
+    "meaning": "sex appeal",
+    "pronunciation": "oiroke",
+    "spelling": "oiroke",
+    "keyboard": "oiroke"
+  },
+  {
+    "word": "えび",
+    "meaning": "shrimp",
+    "pronunciation": "ebi",
+    "spelling": "ebi",
+    "keyboard": "ebi"
+  },
+  {
+    "word": "りゅう",
+    "meaning": "dragon",
+    "pronunciation": "ryu",
+    "spelling": "ryū",
+    "keyboard": "ryuu"
+  },
+  {
+    "word": "りゆう",
+    "meaning": "reason",
+    "pronunciation": "riyu",
+    "spelling": "riyū",
+    "keyboard": "riyuu"
+  },
+  {
+    "word": "きょう",
+    "meaning": "today",
+    "pronunciation": "kyo",
+    "spelling": "kyō",
+    "keyboard": "kyou"
+  },
+  {
+    "word": "ゆめ",
+    "meaning": "dream",
+    "pronunciation": "yume",
+    "spelling": "yume",
+    "keyboard": "yume"
+  },
+  {
+    "word": "やま",
+    "meaning": "mountain",
+    "pronunciation": "yama",
+    "spelling": "yama",
+    "keyboard": "yama"
+  },
+  {
+    "word": "やすい",
+    "meaning": "cheap",
+    "pronunciation": "yasui",
+    "spelling": "yasui",
+    "keyboard": "yasui"
+  },
+  {
+    "word": "りょうり",
+    "meaning": "cooking",
+    "pronunciation": "ryouri",
+    "spelling": "ryōri",
+    "keyboard": "ryouri"
+  },
+  {
+    "word": "かいしゃ",
+    "meaning": "company",
+    "pronunciation": "kaisha",
+    "spelling": "kaisha",
+    "keyboard": "kaisha"
+  },
+  {
+    "word": "じゅうどう",
+    "meaning": "judo",
+    "pronunciation": "judo",
+    "spelling": "judo",
+    "keyboard": "juudou"
+  },
+  {
+    "word": "しゅくだい",
+    "meaning": "homework",
+    "pronunciation": "shukudai",
+    "spelling": "shukudai",
+    "keyboard": "shukudai"
+  },
+  {
+    "word": "びょういん",
+    "meaning": "hospital",
+    "pronunciation": "byoin",
+    "spelling": "byōin",
+    "keyboard": "byouin "
   }
 ]
