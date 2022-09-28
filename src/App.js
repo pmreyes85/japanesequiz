@@ -29,7 +29,7 @@ export default function App() {
 }
 
 function Values() {
-  const [shuffledArray, setShuffledArray] = useState(words);
+  const [shuffledArray, setShuffledArray] = useState(words["hiragana"]);
   const [index, setIndex] = useState(0);
   const [answerVisible, setAnswerVisible] = useState(false);
 
