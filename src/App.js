@@ -1,6 +1,6 @@
 import "./styles.css";
 import { useState } from "react";
-import words from "./data";
+import lists from "./data";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Form, Row, Button, Stack } from "react-bootstrap";
 
@@ -14,8 +14,22 @@ function shuffleArray(array) {
   return array;
 }
 
-function getNextIndex(index) {
-  return index === words.length - 1 ? 0 : index + 1;
+function getNextListIndex(index) {
+  return index === lists.length - 1 ? 0 : index + 1;
+}
+
+function getNextWordIndex(index, listIndex) {
+  return index === lists[listIndex].length - 1 ? 0 : index + 1;
+}
+
+function getListLabel(index) {
+  if(index === 0) {
+    return "Hiragana";
+  } else if(index === 1) {
+    return "Hiragana Words";
+  } else {
+    return "ERROR";
+  }
 }
 
 export default function App() {
@@ -29,46 +43,52 @@ export default function App() {
 }
 
 function Values() {
-  const [shuffledArray, setShuffledArray] = useState(words["hiragana"]);
-  const [index, setIndex] = useState(0);
+  const [listIndex, setListIndex] = useState(0);
+  const [wordIndex, setWordIndex] = useState(0);
+  const [shuffledArray, setShuffledArray] = useState(lists[listIndex]);
+  const [currentLength, setCurrentLength] = useState(shuffledArray.length);
+  const [currentWord, setCurrentWord] = useState(shuffledArray[wordIndex]);
   const [answerVisible, setAnswerVisible] = useState(false);
 
   return (
     <Form className="mx-auto w-50">
+      <h2>{getListLabel(listIndex)}</h2>
       <Form.Label>
-        Question {index + 1} of {shuffledArray.length}
+        Question {wordIndex + 1} of {currentLength}
       </Form.Label>
       <Row>
-        <p className="h1">{shuffledArray[index].word}</p>
+        <p className="h1">{currentWord.word}</p>
       </Row>
       <Form.Group as={Row}>
         <Form.Label column>Meaning</Form.Label>
         <Form.Label column className={answerVisible ? "visible" : "invisible"}>
-          {shuffledArray[index].meaning}
+          {currentWord.meaning}
         </Form.Label>
       </Form.Group>
       <Form.Group as={Row}>
         <Form.Label column>Pronunciation</Form.Label>
         <Form.Label column className={answerVisible ? "visible" : "invisible"}>
-          {shuffledArray[index].pronunciation}
+          {currentWord.pronunciation}
         </Form.Label>
       </Form.Group>
       <Form.Group as={Row}>
         <Form.Label column>Spelling</Form.Label>
         <Form.Label column className={answerVisible ? "visible" : "invisible"}>
-          {shuffledArray[index].spelling}
+          {currentWord.spelling}
         </Form.Label>
       </Form.Group>
       <Form.Group as={Row} className="mb-3">
         <Form.Label column>Keyboard</Form.Label>
         <Form.Label column className={answerVisible ? "visible" : "invisible"}>
-          {shuffledArray[index].keyboard}
+          {currentWord.keyboard}
         </Form.Label>
       </Form.Group>
       <Stack direction="horizontal" gap={2}>
         <Button
           onClick={function () {
-            setIndex(getNextIndex(index));
+            var i = getNextWordIndex(wordIndex,listIndex);
+            setWordIndex(i);
+            setCurrentWord(shuffledArray[i]);
             setAnswerVisible(false);
           }}
         >
@@ -83,11 +103,27 @@ function Values() {
         <Button
           variant="info"
           onClick={() => {
-            setShuffledArray(shuffleArray(words));
-            setIndex(0);
+            var arr = shuffleArray(lists[listIndex]);
+            setShuffledArray(arr);
+            setWordIndex(0);
+            setCurrentWord(arr[0]);
           }}
         >
           Shuffle
+        </Button>
+        <Button
+          variant="info"
+          onClick={() => {
+            var i = getNextListIndex(listIndex);
+            setListIndex(i);
+            var arr = shuffleArray(lists[i]);
+            setShuffledArray(arr);
+            setWordIndex(0);
+            setCurrentWord(arr[0]);
+            setCurrentLength(arr.length);
+          }}
+        >
+          Change List
         </Button>
       </Stack>
     </Form>
