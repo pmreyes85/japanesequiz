@@ -13,6 +13,713 @@
       "pronunciation": "i",
       "spelling": "i",
       "keyboard": "i"
+    },
+    {
+      "word": "う",
+      "meaning": "",
+      "pronunciation": "u",
+      "spelling": "u",
+      "keyboard": "u"
+    },
+    {
+      "word": "え",
+      "meaning": "",
+      "pronunciation": "e",
+      "spelling": "e",
+      "keyboard": "e"
+    },
+    {
+      "word": "お",
+      "meaning": "",
+      "pronunciation": "o",
+      "spelling": "o",
+      "keyboard": "o"
+    },
+    {
+      "word": "か",
+      "meaning": "",
+      "pronunciation": "ka",
+      "spelling": "ka",
+      "keyboard": "ka"
+    },
+    {
+      "word": "き",
+      "meaning": "",
+      "pronunciation": "ki",
+      "spelling": "ki",
+      "keyboard": "ki"
+    },
+    {
+      "word": "く",
+      "meaning": "",
+      "pronunciation": "ku",
+      "spelling": "ku",
+      "keyboard": "ku"
+    },
+    {
+      "word": "け",
+      "meaning": "",
+      "pronunciation": "ke",
+      "spelling": "ke",
+      "keyboard": "ke"
+    },
+    {
+      "word": "こ",
+      "meaning": "",
+      "pronunciation": "ko",
+      "spelling": "ko",
+      "keyboard": "ko"
+    },
+    {
+      "word": "が",
+      "meaning": "",
+      "pronunciation": "ga",
+      "spelling": "ga",
+      "keyboard": "ga"
+    },
+    {
+      "word": "ぎ",
+      "meaning": "",
+      "pronunciation": "gi",
+      "spelling": "gi",
+      "keyboard": "gi"
+    },
+    {
+      "word": "ぐ",
+      "meaning": "",
+      "pronunciation": "gu",
+      "spelling": "gu",
+      "keyboard": "gu"
+    },
+    {
+      "word": "げ",
+      "meaning": "",
+      "pronunciation": "ge",
+      "spelling": "ge",
+      "keyboard": "ge"
+    },
+    {
+      "word": "ご",
+      "meaning": "",
+      "pronunciation": "go",
+      "spelling": "go",
+      "keyboard": "go"
+    },
+    {
+      "word": "さ",
+      "meaning": "",
+      "pronunciation": "sa",
+      "spelling": "sa",
+      "keyboard": "sa"
+    },
+    {
+      "word": "し",
+      "meaning": "",
+      "pronunciation": "shi",
+      "spelling": "shi",
+      "keyboard": "shi or si"
+    },
+    {
+      "word": "す",
+      "meaning": "",
+      "pronunciation": "su",
+      "spelling": "su",
+      "keyboard": "su"
+    },
+    {
+      "word": "せ",
+      "meaning": "",
+      "pronunciation": "se",
+      "spelling": "se",
+      "keyboard": "se"
+    },
+    {
+      "word": "そ",
+      "meaning": "",
+      "pronunciation": "so",
+      "spelling": "so",
+      "keyboard": "so"
+    },
+    {
+      "word": "ざ",
+      "meaning": "",
+      "pronunciation": "za",
+      "spelling": "za",
+      "keyboard": "za"
+    },
+    {
+      "word": "じ",
+      "meaning": "",
+      "pronunciation": "ji",
+      "spelling": "ji",
+      "keyboard": "ji"
+    },
+    {
+      "word": "ず",
+      "meaning": "",
+      "pronunciation": "zu",
+      "spelling": "zu",
+      "keyboard": "zu"
+    },
+    {
+      "word": "ぜ",
+      "meaning": "",
+      "pronunciation": "ze",
+      "spelling": "ze",
+      "keyboard": "ze"
+    },
+    {
+      "word": "ぞ",
+      "meaning": "",
+      "pronunciation": "zo",
+      "spelling": "zo",
+      "keyboard": "zo"
+    },
+    {
+      "word": "た",
+      "meaning": "",
+      "pronunciation": "ta",
+      "spelling": "ta",
+      "keyboard": "ta"
+    },
+    {
+      "word": "ち",
+      "meaning": "",
+      "pronunciation": "ti",
+      "spelling": "ti",
+      "keyboard": "ti or chi"
+    },
+    {
+      "word": "つ",
+      "meaning": "",
+      "pronunciation": "tsu",
+      "spelling": "tsu",
+      "keyboard": "tu or tsu"
+    },
+    {
+      "word": "て",
+      "meaning": "",
+      "pronunciation": "te",
+      "spelling": "te",
+      "keyboard": "te"
+    },
+    {
+      "word": "と",
+      "meaning": "",
+      "pronunciation": "to",
+      "spelling": "to",
+      "keyboard": "to"
+    },
+    {
+      "word": "だ",
+      "meaning": "",
+      "pronunciation": "da",
+      "spelling": "da",
+      "keyboard": "da"
+    },
+    {
+      "word": "づ",
+      "meaning": "",
+      "pronunciation": "dzu",
+      "spelling": "du",
+      "keyboard": "du"
+    },
+    {
+      "word": "で",
+      "meaning": "",
+      "pronunciation": "de",
+      "spelling": "de",
+      "keyboard": "de"
+    },
+    {
+      "word": "ど",
+      "meaning": "",
+      "pronunciation": "do",
+      "spelling": "do",
+      "keyboard": "do"
+    },
+    {
+      "word": "な",
+      "meaning": "",
+      "pronunciation": "na",
+      "spelling": "na",
+      "keyboard": "na"
+    },
+    {
+      "word": "に",
+      "meaning": "",
+      "pronunciation": "ni",
+      "spelling": "ni",
+      "keyboard": "ni"
+    },
+    {
+      "word": "ぬ",
+      "meaning": "",
+      "pronunciation": "nu",
+      "spelling": "nu",
+      "keyboard": "nu"
+    },
+    {
+      "word": "ね",
+      "meaning": "",
+      "pronunciation": "ne",
+      "spelling": "ne",
+      "keyboard": "ne"
+    },
+    {
+      "word": "の",
+      "meaning": "",
+      "pronunciation": "no",
+      "spelling": "no",
+      "keyboard": "no"
+    },
+    {
+      "word": "は",
+      "meaning": "",
+      "pronunciation": "ha",
+      "spelling": "ha",
+      "keyboard": "ha"
+    },
+    {
+      "word": "ひ",
+      "meaning": "",
+      "pronunciation": "hi",
+      "spelling": "hi",
+      "keyboard": "hi"
+    },
+    {
+      "word": "ふ",
+      "meaning": "",
+      "pronunciation": "fu",
+      "spelling": "fu",
+      "keyboard": "hu or fu"
+    },
+    {
+      "word": "へ",
+      "meaning": "",
+      "pronunciation": "he",
+      "spelling": "he",
+      "keyboard": "he"
+    },
+    {
+      "word": "ほ",
+      "meaning": "",
+      "pronunciation": "ho",
+      "spelling": "ho",
+      "keyboard": "ho"
+    },
+    {
+      "word": "ば",
+      "meaning": "",
+      "pronunciation": "ba",
+      "spelling": "ba",
+      "keyboard": "ba"
+    },
+    {
+      "word": "び",
+      "meaning": "",
+      "pronunciation": "bi",
+      "spelling": "bi",
+      "keyboard": "bi"
+    },
+    {
+      "word": "ぶ",
+      "meaning": "",
+      "pronunciation": "bu",
+      "spelling": "bu",
+      "keyboard": "bu"
+    },
+    {
+      "word": "べ",
+      "meaning": "",
+      "pronunciation": "be",
+      "spelling": "be",
+      "keyboard": "be"
+    },
+    {
+      "word": "ぼ",
+      "meaning": "",
+      "pronunciation": "bo",
+      "spelling": "bo",
+      "keyboard": "bo"
+    },
+    {
+      "word": "ぱ",
+      "meaning": "",
+      "pronunciation": "pa",
+      "spelling": "pa",
+      "keyboard": "pa"
+    },
+    {
+      "word": "ぴ",
+      "meaning": "",
+      "pronunciation": "pi",
+      "spelling": "pi",
+      "keyboard": "pi"
+    },
+    {
+      "word": "ぷ",
+      "meaning": "",
+      "pronunciation": "pu",
+      "spelling": "pu",
+      "keyboard": "pu"
+    },
+    {
+      "word": "ぺ",
+      "meaning": "",
+      "pronunciation": "pe",
+      "spelling": "pe",
+      "keyboard": "pe"
+    },
+    {
+      "word": "ぽ",
+      "meaning": "",
+      "pronunciation": "po",
+      "spelling": "po",
+      "keyboard": "po"
+    },
+    {
+      "word": "ら",
+      "meaning": "",
+      "pronunciation": "ra",
+      "spelling": "ra",
+      "keyboard": "ra"
+    },
+    {
+      "word": "り",
+      "meaning": "",
+      "pronunciation": "ri",
+      "spelling": "ri",
+      "keyboard": "ri"
+    },
+    {
+      "word": "る",
+      "meaning": "",
+      "pronunciation": "ru",
+      "spelling": "ru",
+      "keyboard": "ru"
+    },
+    {
+      "word": "れ",
+      "meaning": "",
+      "pronunciation": "re",
+      "spelling": "re",
+      "keyboard": "re"
+    },
+    {
+      "word": "ろ",
+      "meaning": "",
+      "pronunciation": "ro",
+      "spelling": "ro",
+      "keyboard": "ro"
+    },
+    {
+      "word": "や",
+      "meaning": "",
+      "pronunciation": "ya",
+      "spelling": "ya",
+      "keyboard": "ya"
+    },
+    {
+      "word": "ゆ",
+      "meaning": "",
+      "pronunciation": "yu",
+      "spelling": "yu",
+      "keyboard": "yu"
+    },
+    {
+      "word": "よ",
+      "meaning": "",
+      "pronunciation": "yo",
+      "spelling": "yo",
+      "keyboard": "yo"
+    },
+    {
+      "word": "ひゃ",
+      "meaning": "",
+      "pronunciation": "hya",
+      "spelling": "hya",
+      "keyboard": "hya"
+    },
+    {
+      "word": "ひゅ",
+      "meaning": "",
+      "pronunciation": "hyu",
+      "spelling": "hyu",
+      "keyboard": "hyu"
+    },
+    {
+      "word": "ひょ",
+      "meaning": "",
+      "pronunciation": "hyo",
+      "spelling": "hyo",
+      "keyboard": "hyo"
+    },
+    {
+      "word": "びゃ",
+      "meaning": "",
+      "pronunciation": "bya",
+      "spelling": "bya",
+      "keyboard": "bya"
+    },
+    {
+      "word": "びゅ",
+      "meaning": "",
+      "pronunciation": "byu",
+      "spelling": "byu",
+      "keyboard": "byu"
+    },
+    {
+      "word": "びょ",
+      "meaning": "",
+      "pronunciation": "byo",
+      "spelling": "byo",
+      "keyboard": "byo"
+    },
+    {
+      "word": "ぴゃ",
+      "meaning": "",
+      "pronunciation": "pya",
+      "spelling": "pya",
+      "keyboard": "pya"
+    },
+    {
+      "word": "ぴゅ",
+      "meaning": "",
+      "pronunciation": "pyu",
+      "spelling": "pyu",
+      "keyboard": "pyu"
+    },
+    {
+      "word": "ぴょ",
+      "meaning": "",
+      "pronunciation": "pyo",
+      "spelling": "pyo",
+      "keyboard": "pyo"
+    },
+    {
+      "word": "りゃ",
+      "meaning": "",
+      "pronunciation": "rya",
+      "spelling": "rya",
+      "keyboard": "rya"
+    },
+    {
+      "word": "りゅ",
+      "meaning": "",
+      "pronunciation": "ryu",
+      "spelling": "ryu",
+      "keyboard": "ryu"
+    },
+    {
+      "word": "りょ",
+      "meaning": "",
+      "pronunciation": "ryo",
+      "spelling": "ryo",
+      "keyboard": "ryo"
+    },
+    {
+      "word": "みゃ",
+      "meaning": "",
+      "pronunciation": "mya",
+      "spelling": "mya",
+      "keyboard": "mya"
+    },
+    {
+      "word": "みゅ",
+      "meaning": "",
+      "pronunciation": "myu",
+      "spelling": "myu",
+      "keyboard": "myu"
+    },
+    {
+      "word": "みょ",
+      "meaning": "",
+      "pronunciation": "myo",
+      "spelling": "myo",
+      "keyboard": "myo"
+    },
+    {
+      "word": "にゃ",
+      "meaning": "",
+      "pronunciation": "nya",
+      "spelling": "nya",
+      "keyboard": "nya"
+    },
+    {
+      "word": "にゅ",
+      "meaning": "",
+      "pronunciation": "nyu",
+      "spelling": "nyu",
+      "keyboard": "nyu"
+    },
+    {
+      "word": "にょ",
+      "meaning": "",
+      "pronunciation": "nyo",
+      "spelling": "nyo",
+      "keyboard": "nyo"
+    },
+    {
+      "word": "ちゃ",
+      "meaning": "",
+      "pronunciation": "cha",
+      "spelling": "cha",
+      "keyboard": "cha or tya"
+    },
+    {
+      "word": "ちゅ",
+      "meaning": "",
+      "pronunciation": "chu",
+      "spelling": "chu",
+      "keyboard": "chu or tyu"
+    },
+    {
+      "word": "ちょ",
+      "meaning": "",
+      "pronunciation": "cho",
+      "spelling": "cho",
+      "keyboard": "cho or tyo"
+    },
+    {
+      "word": "しゃ",
+      "meaning": "",
+      "pronunciation": "sha",
+      "spelling": "sha",
+      "keyboard": "sha"
+    },
+    {
+      "word": "しゅ",
+      "meaning": "",
+      "pronunciation": "shu",
+      "spelling": "shu",
+      "keyboard": "shu"
+    },
+    {
+      "word": "しょ",
+      "meaning": "",
+      "pronunciation": "sho",
+      "spelling": "sho",
+      "keyboard": "sho"
+    },
+    {
+      "word": "じゃ",
+      "meaning": "",
+      "pronunciation": "jya",
+      "spelling": "jya",
+      "keyboard": "jya"
+    },
+    {
+      "word": "じゃ",
+      "meaning": "",
+      "pronunciation": "jyu",
+      "spelling": "jyu",
+      "keyboard": "jyu"
+    },
+    {
+      "word": "じゃ",
+      "meaning": "",
+      "pronunciation": "jyo",
+      "spelling": "jyo",
+      "keyboard": "jyo"
+    },
+    {
+      "word": "ぎゃ",
+      "meaning": "",
+      "pronunciation": "gya",
+      "spelling": "gya",
+      "keyboard": "gya"
+    },
+    {
+      "word": "ぎゅ",
+      "meaning": "",
+      "pronunciation": "gyu",
+      "spelling": "gyu",
+      "keyboard": "gyu"
+    },
+    {
+      "word": "ぎょ",
+      "meaning": "",
+      "pronunciation": "gyo",
+      "spelling": "gyo",
+      "keyboard": "gyo"
+    },
+    {
+      "word": "きゃ",
+      "meaning": "",
+      "pronunciation": "kya",
+      "spelling": "kya",
+      "keyboard": "kya"
+    },
+    {
+      "word": "きゅ",
+      "meaning": "",
+      "pronunciation": "kyu",
+      "spelling": "kyu",
+      "keyboard": "kyu"
+    },
+    {
+      "word": "きょ",
+      "meaning": "",
+      "pronunciation": "kyo",
+      "spelling": "kyo",
+      "keyboard": "kyo"
+    },
+    {
+      "word": "ま",
+      "meaning": "",
+      "pronunciation": "ma",
+      "spelling": "ma",
+      "keyboard": "ma"
+    },
+    {
+      "word": "み",
+      "meaning": "",
+      "pronunciation": "mi",
+      "spelling": "mi",
+      "keyboard": "mi"
+    },
+    {
+      "word": "む",
+      "meaning": "",
+      "pronunciation": "mu",
+      "spelling": "mu",
+      "keyboard": "mu"
+    },
+    {
+      "word": "め",
+      "meaning": "",
+      "pronunciation": "me",
+      "spelling": "me",
+      "keyboard": "me"
+    },
+    {
+      "word": "も",
+      "meaning": "",
+      "pronunciation": "mo",
+      "spelling": "mo",
+      "keyboard": "mo"
+    },
+    {
+      "word": "わ",
+      "meaning": "",
+      "pronunciation": "wa",
+      "spelling": "wa",
+      "keyboard": "wa"
+    },
+    {
+      "word": "を",
+      "meaning": "",
+      "pronunciation": "wo",
+      "spelling": "wo",
+      "keyboard": "wo"
+    },
+    {
+      "word": "ん",
+      "meaning": "",
+      "pronunciation": "n",
+      "spelling": "n",
+      "keyboard": "nn"
     }
   ],
   [
@@ -46,7 +753,7 @@
     },
     {
       "word": "いいえ",
-      "meaning": "no",
+      "meaning": "bo",
       "pronunciation": "iie",
       "spelling": "iie",
       "keyboard": "iie"
@@ -517,8 +1224,8 @@
       "word": "ふしぎ",
       "meaning": "mysterious",
       "pronunciation": "hushigi",
-      "spelling": "fushigi",
-      "keyboard": "fushigi"
+      "spelling": "bushigi",
+      "keyboard": "bushigi"
     },
     {
       "word": "はなび",
@@ -531,8 +1238,8 @@
       "word": "ふくざつ",
       "meaning": "complicated",
       "pronunciation": "hukuzatsu",
-      "spelling": "fukuzatsu",
-      "keyboard": "fukuzatsu"
+      "spelling": "bukuzatsu",
+      "keyboard": "bukuzatsu"
     },
     {
       "word": "ひきだし",
@@ -781,7 +1488,7 @@
     },
     {
       "word": "ぱいずり",
-      "meaning": "fucking",
+      "meaning": "bucking",
       "pronunciation": "paizuri",
       "spelling": "paizuri",
       "keyboard": "paizuri"
@@ -897,6 +1604,148 @@
       "pronunciation": "byoin",
       "spelling": "byōin",
       "keyboard": "byouin "
+    }
+  ],
+  [
+    {
+      "word": "ア",
+      "meaning": "",
+      "pronunciation": "a",
+      "spelling": "a",
+      "keyboard": "a "
+    },
+    {
+      "word": "イ",
+      "meaning": "",
+      "pronunciation": "i",
+      "spelling": "i",
+      "keyboard": "i"
+    },
+    {
+      "word": "ウ",
+      "meaning": "",
+      "pronunciation": "u",
+      "spelling": "u",
+      "keyboard": "u"
+    },
+    {
+      "word": "エ",
+      "meaning": "",
+      "pronunciation": "e",
+      "spelling": "e",
+      "keyboard": "e"
+    },
+    {
+      "word": "オ",
+      "meaning": "",
+      "pronunciation": "o",
+      "spelling": "o",
+      "keyboard": "o"
+    },
+    {
+      "word": "カ",
+      "meaning": "",
+      "pronunciation": "ka",
+      "spelling": "ka",
+      "keyboard": "ka "
+    },
+    {
+      "word": "キ",
+      "meaning": "",
+      "pronunciation": "ki",
+      "spelling": "ki",
+      "keyboard": "ki"
+    },
+    {
+      "word": "ク",
+      "meaning": "",
+      "pronunciation": "ku",
+      "spelling": "ku",
+      "keyboard": "ku"
+    },
+    {
+      "word": "ケ",
+      "meaning": "",
+      "pronunciation": "ke",
+      "spelling": "ke",
+      "keyboard": "ke"
+    },
+    {
+      "word": "コ",
+      "meaning": "",
+      "pronunciation": "ko",
+      "spelling": "ko",
+      "keyboard": "ko"
+    },
+    {
+      "word": "サ",
+      "meaning": "",
+      "pronunciation": "sa",
+      "spelling": "sa",
+      "keyboard": "sa "
+    },
+    {
+      "word": "シ",
+      "meaning": "",
+      "pronunciation": "shi",
+      "spelling": "shi",
+      "keyboard": "shi or si"
+    },
+    {
+      "word": "ス",
+      "meaning": "",
+      "pronunciation": "su",
+      "spelling": "su",
+      "keyboard": "su"
+    },
+    {
+      "word": "セ",
+      "meaning": "",
+      "pronunciation": "se",
+      "spelling": "se",
+      "keyboard": "se"
+    },
+    {
+      "word": "ソ",
+      "meaning": "",
+      "pronunciation": "so",
+      "spelling": "so",
+      "keyboard": "so"
+    },
+    {
+      "word": "ザ",
+      "meaning": "",
+      "pronunciation": "za",
+      "spelling": "za",
+      "keyboard": "za "
+    },
+    {
+      "word": "ジ",
+      "meaning": "",
+      "pronunciation": "ji",
+      "spelling": "ji",
+      "keyboard": "ji"
+    },
+    {
+      "word": "ズ",
+      "meaning": "",
+      "pronunciation": "zu",
+      "spelling": "zu",
+      "keyboard": "zu"
+    },
+    {
+      "word": "ゼ",
+      "meaning": "",
+      "pronunciation": "ze",
+      "spelling": "ze",
+      "keyboard": "ze"
+    },
+    {
+      "word": "ゾ",
+      "meaning": "",
+      "pronunciation": "zo",
+      "spelling": "zo",
+      "keyboard": "zo"
     }
   ]
 ]
