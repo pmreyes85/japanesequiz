@@ -1804,6 +1804,76 @@
       "keyboard": "to"
     },
     {
+      "word": "ダ",
+      "meaning": "",
+      "pronunciation": "da",
+      "spelling": "da",
+      "keyboard": "da "
+    },
+    {
+      "word": "ヂ",
+      "meaning": "",
+      "pronunciation": "di",
+      "spelling": "ji",
+      "keyboard": "di"
+    },
+    {
+      "word": "ヅ",
+      "meaning": "",
+      "pronunciation": "dsu",
+      "spelling": "du",
+      "keyboard": "du"
+    },
+    {
+      "word": "デ",
+      "meaning": "",
+      "pronunciation": "de",
+      "spelling": "de",
+      "keyboard": "de"
+    },
+    {
+      "word": "ド",
+      "meaning": "",
+      "pronunciation": "do",
+      "spelling": "do",
+      "keyboard": "do"
+    },
+    {
+      "word": "チェ",
+      "meaning": "",
+      "pronunciation": "che",
+      "spelling": "che",
+      "keyboard": "che"
+    },
+    {
+      "word": "ティ",
+      "meaning": "",
+      "pronunciation": "ti",
+      "spelling": "ti",
+      "keyboard": "texi"
+    },
+    {
+      "word": "ディ",
+      "meaning": "",
+      "pronunciation": "di",
+      "spelling": "di",
+      "keyboard": "dexi"
+    },
+    {
+      "word": "トゥ",
+      "meaning": "",
+      "pronunciation": "tu",
+      "spelling": "tu",
+      "keyboard": "toxu"
+    },
+    {
+      "word": "ドゥ",
+      "meaning": "",
+      "pronunciation": "du",
+      "spelling": "du",
+      "keyboard": "doxu"
+    },
+    {
       "word": "ヴ",
       "meaning": "V sound",
       "pronunciation": "b",
@@ -2028,6 +2098,62 @@
       "pronunciation": "wisukii",
       "spelling": "Whiskey",
       "keyboard": "wisuki-"
+    },
+    {
+      "word": "タイ",
+      "meaning": "Thailand",
+      "pronunciation": "tai",
+      "spelling": "Thailand",
+      "keyboard": "tai"
+    },
+    {
+      "word": "チーズ",
+      "meaning": "Cheese",
+      "pronunciation": "chizu",
+      "spelling": "Cheese",
+      "keyboard": "chi-zu"
+    },
+    {
+      "word": "デート",
+      "meaning": "Date (romantic)",
+      "pronunciation": "deeto",
+      "spelling": "Date",
+      "keyboard": "de-to"
+    },
+    {
+      "word": "ドイツ",
+      "meaning": "Germany",
+      "pronunciation": "doitsu",
+      "spelling": "Germany",
+      "keyboard": "doitsu"
+    },
+    {
+      "word": "スイッチ",
+      "meaning": "Switch",
+      "pronunciation": "suicchi",
+      "spelling": "Switch",
+      "keyboard": "suicchi"
+    },
+    {
+      "word": "サッカー",
+      "meaning": "Soccer",
+      "pronunciation": "sakkaa",
+      "spelling": "Soccer",
+      "keyboard": "sakka-"
+    },
+    {
+      "word": "アウトドア",
+      "meaning": "Outdoor Activities",
+      "pronunciation": "autodoa",
+      "spelling": "Outdoor",
+      "keyboard": "autodoa"
+    },
+    {
+      "word": "ジェットコースター",
+      "meaning": "Roller Coaster",
+      "pronunciation": "jettokoostaa",
+      "spelling": "Roller Coaster",
+      "keyboard": "jettoko-suta-"
     }
   ]
 ]
