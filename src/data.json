@@ -1802,6 +1802,232 @@
       "pronunciation": "to",
       "spelling": "to",
       "keyboard": "to"
+    },
+    {
+      "word": "ヴ",
+      "meaning": "V sound",
+      "pronunciation": "b",
+      "spelling": "b",
+      "keyboard": "vu"
+    },
+    {
+      "word": "イェ",
+      "meaning": "",
+      "pronunciation": "ye",
+      "spelling": "ye",
+      "keyboard": "ye"
+    },
+    {
+      "word": "ウィ",
+      "meaning": "",
+      "pronunciation": "wi",
+      "spelling": "wi",
+      "keyboard": "wi"
+    },
+    {
+      "word": "ウェ",
+      "meaning": "",
+      "pronunciation": "we",
+      "spelling": "we",
+      "keyboard": "we"
+    },
+    {
+      "word": "ヴァ",
+      "meaning": "",
+      "pronunciation": "ba",
+      "spelling": "ba",
+      "keyboard": "va"
+    },
+    {
+      "word": "ヴィ",
+      "meaning": "",
+      "pronunciation": "bi",
+      "spelling": "bi",
+      "keyboard": "vi"
+    },
+    {
+      "word": "ヴェ",
+      "meaning": "",
+      "pronunciation": "be",
+      "spelling": "be",
+      "keyboard": "ve"
+    },
+    {
+      "word": "ヴォ",
+      "meaning": "",
+      "pronunciation": "bo",
+      "spelling": "bo",
+      "keyboard": "vo"
+    },
+    {
+      "word": "アー",
+      "meaning": "",
+      "pronunciation": "aa",
+      "spelling": "a",
+      "keyboard": "a-"
+    },
+    {
+      "word": "シェ",
+      "meaning": "",
+      "pronunciation": "she",
+      "spelling": "she",
+      "keyboard": "she"
+    },
+    {
+      "word": "ジェ",
+      "meaning": "",
+      "pronunciation": "je",
+      "spelling": "je",
+      "keyboard": "je"
+    }
+  ],
+  [
+    {
+      "word": "ア!",
+      "meaning": "Expression when you realize something",
+      "pronunciation": "Ah!",
+      "spelling": "a!",
+      "keyboard": "a!"
+    },
+    {
+      "word": "オ＝",
+      "meaning": "Expression when being amazed",
+      "pronunciation": "Oooo",
+      "spelling": "oo",
+      "keyboard": "o-"
+    },
+    {
+      "word": "エコ",
+      "meaning": "Eco-friendly",
+      "pronunciation": "eko",
+      "spelling": "Eco",
+      "keyboard": "eco"
+    },
+    {
+      "word": "ギヤ",
+      "meaning": "Gear",
+      "pronunciation": "giya",
+      "spelling": "Gear",
+      "keyboard": "giya"
+    },
+    {
+      "word": "カカオ",
+      "meaning": "Cacao",
+      "pronunciation": "kakao",
+      "spelling": "Cacao",
+      "keyboard": "kakao"
+    },
+    {
+      "word": "ケーキ",
+      "meaning": "Cake",
+      "pronunciation": "keeki",
+      "spelling": "Cake",
+      "keyboard": "ke-ki"
+    },
+    {
+      "word": "カーカー",
+      "meaning": "Crow's sound or Caw caw!",
+      "pronunciation": "kaakaa",
+      "spelling": "kaakaa",
+      "keyboard": "ka-ka-"
+    },
+    {
+      "word": "イケてる",
+      "meaning": "Cool or sexy",
+      "pronunciation": "iketeru",
+      "spelling": "Cool or sexy",
+      "keyboard": "iketeru"
+    },
+    {
+      "word": "グーグー",
+      "meaning": "Sound of snoring or a grumbling stomach",
+      "pronunciation": "guuguu",
+      "spelling": "guuguu",
+      "keyboard": "gu-gu-"
+    },
+    {
+      "word": "オーケー",
+      "meaning": "Okay",
+      "pronunciation": "ookee",
+      "spelling": "okay",
+      "keyboard": "o-ke or o-ke-"
+    },
+    {
+      "word": "シェア",
+      "meaning": "Share",
+      "pronunciation": "shea",
+      "spelling": "Share",
+      "keyboard": "shea"
+    },
+    {
+      "word": "シェアする",
+      "meaning": "to share",
+      "pronunciation": "sheasuru",
+      "spelling": "to share",
+      "keyboard": "sheasuru"
+    },
+    {
+      "word": "シェフ",
+      "meaning": "Chef",
+      "pronunciation": "shef",
+      "spelling": "Chef",
+      "keyboard": "shefu"
+    },
+    {
+      "word": "ジェリー",
+      "meaning": "Jelly",
+      "pronunciation": "jerii",
+      "spelling": "Jelly",
+      "keyboard": "jeri-"
+    },
+    {
+      "word": "ガス",
+      "meaning": "Gas (state of matter)",
+      "pronunciation": "gasu",
+      "spelling": "Gas",
+      "keyboard": "gasu"
+    },
+    {
+      "word": "アジア",
+      "meaning": "Asia",
+      "pronunciation": "aja",
+      "spelling": "Asia",
+      "keyboard": "aja"
+    },
+    {
+      "word": "スキー",
+      "meaning": "Skiing",
+      "pronunciation": "sukii",
+      "spelling": "Skiing",
+      "keyboard": "suki-"
+    },
+    {
+      "word": "コース",
+      "meaning": "Course",
+      "pronunciation": "koosu",
+      "spelling": "Course",
+      "keyboard": "ko-su"
+    },
+    {
+      "word": "ソース",
+      "meaning": "Sauce or Source",
+      "pronunciation": "soosu",
+      "spelling": "Sauce or Source",
+      "keyboard": "so-su"
+    },
+    {
+      "word": "カサカサ",
+      "meaning": "Sound of rustling or Dry",
+      "pronunciation": "kasakasa",
+      "spelling": "kasakasa",
+      "keyboard": "kasakasa"
+    },
+    {
+      "word": "ウィスキー",
+      "meaning": "Whiskey",
+      "pronunciation": "wisukii",
+      "spelling": "Whiskey",
+      "keyboard": "wisuki-"
     }
   ]
 ]

@@ -29,6 +29,8 @@ function getListLabel(index) {
     return "Hiragana Words";
   } else if(index === 2) {
     return "Katakana";
+  } else if(index === 3) {
+    return "Katakana Words";
   } else {
     return "ERROR";
   }
