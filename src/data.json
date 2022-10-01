@@ -185,8 +185,8 @@
     {
       "word": "ち",
       "meaning": "",
-      "pronunciation": "ti",
-      "spelling": "ti",
+      "pronunciation": "chi",
+      "spelling": "chi",
       "keyboard": "ti or chi"
     },
     {
@@ -610,14 +610,14 @@
       "keyboard": "jya"
     },
     {
-      "word": "じゃ",
+      "word": "じゅ",
       "meaning": "",
       "pronunciation": "jyu",
       "spelling": "jyu",
       "keyboard": "jyu"
     },
     {
-      "word": "じゃ",
+      "word": "じょ",
       "meaning": "",
       "pronunciation": "jyo",
       "spelling": "jyo",
@@ -1949,84 +1949,119 @@
       "pronunciation": "je",
       "spelling": "je",
       "keyboard": "je"
+    },
+    {
+      "word": "ナ",
+      "meaning": "",
+      "pronunciation": "na",
+      "spelling": "na",
+      "keyboard": "na"
+    },
+    {
+      "word": "ニ",
+      "meaning": "",
+      "pronunciation": "ni",
+      "spelling": "ni",
+      "keyboard": "ni"
+    },
+    {
+      "word": "ヌ",
+      "meaning": "",
+      "pronunciation": "nu",
+      "spelling": "nu",
+      "keyboard": "nu"
+    },
+    {
+      "word": "ネ",
+      "meaning": "",
+      "pronunciation": "ne",
+      "spelling": "ne",
+      "keyboard": "ne"
+    },
+    {
+      "word": "ノ",
+      "meaning": "",
+      "pronunciation": "no",
+      "spelling": "no",
+      "keyboard": "no"
     }
   ],
   [
     {
       "word": "ア!",
-      "meaning": "Expression when you realize something",
+      "meaning": "expression when you realize something",
       "pronunciation": "Ah!",
       "spelling": "a!",
       "keyboard": "a!"
     },
     {
       "word": "オ＝",
-      "meaning": "Expression when being amazed",
+      "meaning": "expression when being amazed",
       "pronunciation": "Oooo",
       "spelling": "oo",
       "keyboard": "o-"
     },
     {
       "word": "エコ",
-      "meaning": "Eco-friendly",
+      "meaning": "eco-friendly",
       "pronunciation": "eko",
-      "spelling": "Eco",
+      "spelling": "eco",
       "keyboard": "eco"
     },
     {
       "word": "ギヤ",
-      "meaning": "Gear",
+      "meaning": "gear",
       "pronunciation": "giya",
-      "spelling": "Gear",
+      "spelling": "gear",
       "keyboard": "giya"
     },
     {
       "word": "カカオ",
-      "meaning": "Cacao",
+      "meaning": "cacao",
       "pronunciation": "kakao",
-      "spelling": "Cacao",
+      "spelling": "cacao",
       "keyboard": "kakao"
     },
     {
       "word": "ケーキ",
-      "meaning": "Cake",
+      "meaning": "cake",
       "pronunciation": "keeki",
-      "spelling": "Cake",
+      "spelling": "cake",
       "keyboard": "ke-ki"
     },
     {
       "word": "カーカー",
-      "meaning": "Crow's sound or Caw caw!",
+      "meaning": "crow's sound or caw caw!",
       "pronunciation": "kaakaa",
       "spelling": "kaakaa",
       "keyboard": "ka-ka-"
     },
     {
       "word": "イケてる",
-      "meaning": "Cool or sexy",
+      "meaning": "cool or sexy",
       "pronunciation": "iketeru",
-      "spelling": "Cool or sexy",
+      "spelling": "cool or sexy",
       "keyboard": "iketeru"
     },
     {
       "word": "グーグー",
-      "meaning": "Sound of snoring or a grumbling stomach",
+      "meaning": "sound of snoring or a grumbling stomach",
       "pronunciation": "guuguu",
       "spelling": "guuguu",
       "keyboard": "gu-gu-"
     },
     {
       "word": "オーケー",
-      "meaning": "Okay",
+      "meaning": "okay",
       "pronunciation": "ookee",
       "spelling": "okay",
       "keyboard": "o-ke or o-ke-"
     },
     {
       "word": "シェア",
-      "meaning": "Share",
+      "meaning": "share",
       "pronunciation": "shea",
-      "spelling": "Share",
+      "spelling": "share",
       "keyboard": "shea"
     },
     {
@@ -2038,23 +2073,23 @@
     },
     {
       "word": "シェフ",
-      "meaning": "Chef",
+      "meaning": "chef",
       "pronunciation": "shef",
-      "spelling": "Chef",
+      "spelling": "chef",
       "keyboard": "shefu"
     },
     {
       "word": "ジェリー",
-      "meaning": "Jelly",
+      "meaning": "jelly",
       "pronunciation": "jerii",
-      "spelling": "Jelly",
+      "spelling": "jelly",
       "keyboard": "jeri-"
     },
     {
       "word": "ガス",
-      "meaning": "Gas (state of matter)",
+      "meaning": "gas (state of matter)",
       "pronunciation": "gasu",
-      "spelling": "Gas",
+      "spelling": "gas",
       "keyboard": "gasu"
     },
     {
@@ -2066,37 +2101,37 @@
     },
     {
       "word": "スキー",
-      "meaning": "Skiing",
+      "meaning": "skiing",
       "pronunciation": "sukii",
-      "spelling": "Skiing",
+      "spelling": "skiing",
       "keyboard": "suki-"
     },
     {
       "word": "コース",
-      "meaning": "Course",
+      "meaning": "course",
       "pronunciation": "koosu",
-      "spelling": "Course",
+      "spelling": "course",
       "keyboard": "ko-su"
     },
     {
       "word": "ソース",
-      "meaning": "Sauce or Source",
+      "meaning": "sauce or source",
       "pronunciation": "soosu",
-      "spelling": "Sauce or Source",
+      "spelling": "sauce or source",
       "keyboard": "so-su"
     },
     {
       "word": "カサカサ",
-      "meaning": "Sound of rustling or Dry",
+      "meaning": "sound of rustling or dry",
       "pronunciation": "kasakasa",
       "spelling": "kasakasa",
       "keyboard": "kasakasa"
     },
     {
       "word": "ウィスキー",
-      "meaning": "Whiskey",
+      "meaning": "whiskey",
       "pronunciation": "wisukii",
-      "spelling": "Whiskey",
+      "spelling": "whiskey",
       "keyboard": "wisuki-"
     },
     {
@@ -2108,16 +2143,16 @@
     },
     {
       "word": "チーズ",
-      "meaning": "Cheese",
+      "meaning": "cheese",
       "pronunciation": "chizu",
-      "spelling": "Cheese",
+      "spelling": "cheese",
       "keyboard": "chi-zu"
     },
     {
       "word": "デート",
-      "meaning": "Date (romantic)",
+      "meaning": "date (romantic)",
       "pronunciation": "deeto",
-      "spelling": "Date",
+      "spelling": "date",
       "keyboard": "de-to"
     },
     {
@@ -2129,31 +2164,87 @@
     },
     {
       "word": "スイッチ",
-      "meaning": "Switch",
+      "meaning": "switch",
       "pronunciation": "suicchi",
-      "spelling": "Switch",
+      "spelling": "switch",
       "keyboard": "suicchi"
     },
     {
       "word": "サッカー",
-      "meaning": "Soccer",
+      "meaning": "soccer",
       "pronunciation": "sakkaa",
-      "spelling": "Soccer",
+      "spelling": "soccer",
       "keyboard": "sakka-"
     },
     {
       "word": "アウトドア",
-      "meaning": "Outdoor Activities",
+      "meaning": "outdoor Activities",
       "pronunciation": "autodoa",
-      "spelling": "Outdoor",
+      "spelling": "outdoor",
       "keyboard": "autodoa"
     },
     {
       "word": "ジェットコースター",
-      "meaning": "Roller Coaster",
+      "meaning": "roller coaster",
       "pronunciation": "jettokoostaa",
-      "spelling": "Roller Coaster",
+      "spelling": "roller coaster",
       "keyboard": "jettoko-suta-"
+    },
+    {
+      "word": "ツナ",
+      "meaning": "tuna",
+      "pronunciation": "tsuna",
+      "spelling": "tuna",
+      "keyboard": "tuna or tsuna"
+    },
+    {
+      "word": "ネタ",
+      "meaning": "joke material or punchline",
+      "pronunciation": "neta",
+      "spelling": "joke material or punchline",
+      "keyboard": "neta"
+    },
+    {
+      "word": "ノート",
+      "meaning": "notebook",
+      "pronunciation": "nooto",
+      "spelling": "notebook",
+      "keyboard": "no-to"
+    },
+    {
+      "word": "シニア",
+      "meaning": "elderly people",
+      "pronunciation": "shinia",
+      "spelling": "elderly people",
+      "keyboard": "shinia"
+    },
+    {
+      "word": "カヌー",
+      "meaning": "canoe",
+      "pronunciation": "kanuu",
+      "spelling": "canoe",
+      "keyboard": "kanu-"
+    },
+    {
+      "word": "ネット",
+      "meaning": "internet",
+      "pronunciation": "netto",
+      "spelling": "internet",
+      "keyboard": "netto"
+    },
+    {
+      "word": "ニコニコ",
+      "meaning": "smiling from ear to ear",
+      "pronunciation": "nikoniko",
+      "spelling": "smiling from ear to ear",
+      "keyboard": "nikoniko"
+    },
+    {
+      "word": "デザイナー",
+      "meaning": "designer",
+      "pronunciation": "dezainaa",
+      "spelling": "designer",
+      "keyboard": "dezaina-"
     }
   ]
 ]
