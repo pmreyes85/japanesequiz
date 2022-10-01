@@ -47,6 +47,15 @@ export default function App() {
       <h1>My Japanese Quiz</h1>
       <h2>What is the English for the Japanese word shown?</h2>
       <Values />
+      <br/>
+      <p>
+        Commands:
+        <ul>
+          <li>Left Arrow: Previous word</li>
+          <li>Right Arrow: Next word</li>
+          <li>Shift: Show/Hide answers</li>
+        </ul>
+      </p>
     </div>
   );
 }
