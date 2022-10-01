@@ -3,6 +3,7 @@ import { useState } from "react";
 import lists from "./data";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Form, Row, Button, Stack } from "react-bootstrap";
+import { useCallback, useEffect } from 'react';
 
 function shuffleArray(array) {
   for (var i = array.length - 1; i > 0; i--) {
@@ -16,6 +17,10 @@ function shuffleArray(array) {
 
 function getNextListIndex(index) {
   return index === lists.length - 1 ? 0 : index + 1;
+}
+
+function getPrevWordIndex(index) {
+  return index <= 0 ? 0 : index - 1;
 }
 
 function getNextWordIndex(index, listIndex) {
@@ -54,6 +59,43 @@ function Values() {
   const [currentWord, setCurrentWord] = useState(shuffledArray[wordIndex]);
   const [answerVisible, setAnswerVisible] = useState(false);
 
+  function showPrevWord() {
+    var i = getPrevWordIndex(wordIndex,listIndex);
+    setWordIndex(i);
+    setCurrentWord(shuffledArray[i]);
+    setAnswerVisible(false);
+  }
+  function showNextWord() {
+    var i = getNextWordIndex(wordIndex,listIndex);
+    setWordIndex(i);
+    setCurrentWord(shuffledArray[i]);
+    setAnswerVisible(false);
+  }
+
+  // handle what happens on key press
+  const handleKeyPress = useCallback((event) => {
+    event.preventDefault();
+    if(event.key === 'ArrowRight') {
+      showNextWord();
+    }
+    if(event.key === 'ArrowLeft') { 
+      showPrevWord();
+    }
+    if(event.shiftKey) {
+      setAnswerVisible(!answerVisible);
+    }
+  }, [wordIndex,answerVisible]);
+
+  useEffect(() => {
+    // attach the event listener
+    document.addEventListener('keydown', handleKeyPress);
+
+    // remove the event listener
+    return () => {
+      document.removeEventListener('keydown', handleKeyPress);
+    };
+  }, [handleKeyPress]);
+
   return (
     <Form className="mx-auto w-50">
       <h2>{getListLabel(listIndex)}</h2>
@@ -88,15 +130,15 @@ function Values() {
         </Form.Label>
       </Form.Group>
       <Stack direction="horizontal" gap={2}>
-        <Button
-          onClick={function () {
-            var i = getNextWordIndex(wordIndex,listIndex);
-            setWordIndex(i);
-            setCurrentWord(shuffledArray[i]);
-            setAnswerVisible(false);
-          }}
+      <Button
+          onClick={() => showPrevWord()}
         >
-          Next Word
+          Previous
+        </Button>
+        <Button
+          onClick={() => showNextWord()}
+        >
+          Next
         </Button>
         <Button
           variant="secondary"
