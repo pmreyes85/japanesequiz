@@ -1625,6 +1625,20 @@
       "pronunciation": "byoin",
       "spelling": "byōin",
       "keyboard": "byouin "
+    },
+    {
+      "word": "すみません",
+      "meaning": "excuse me",
+      "pronunciation": "sumimasen",
+      "spelling": "sumimasen",
+      "keyboard": "sumimasen"
+    },
+    {
+      "word": "はい",
+      "meaning": "yes",
+      "pronunciation": "hai",
+      "spelling": "hai",
+      "keyboard": "hai"
     }
   ],
   [
@@ -1984,6 +1998,111 @@
       "pronunciation": "no",
       "spelling": "no",
       "keyboard": "no"
+    },
+    {
+      "word": "ハ",
+      "meaning": "",
+      "pronunciation": "ha",
+      "spelling": "ha",
+      "keyboard": "ha"
+    },
+    {
+      "word": "ヒ",
+      "meaning": "",
+      "pronunciation": "hi",
+      "spelling": "hi",
+      "keyboard": "hi"
+    },
+    {
+      "word": "フ",
+      "meaning": "",
+      "pronunciation": "fu",
+      "spelling": "fu",
+      "keyboard": "fu"
+    },
+    {
+      "word": "へ",
+      "meaning": "",
+      "pronunciation": "he",
+      "spelling": "he",
+      "keyboard": "he"
+    },
+    {
+      "word": "ホ",
+      "meaning": "",
+      "pronunciation": "ho",
+      "spelling": "ho",
+      "keyboard": "ho"
+    },
+    {
+      "word": "バ",
+      "meaning": "",
+      "pronunciation": "ba",
+      "spelling": "ba",
+      "keyboard": "ba"
+    },
+    {
+      "word": "ビ",
+      "meaning": "",
+      "pronunciation": "bi",
+      "spelling": "bi",
+      "keyboard": "bi"
+    },
+    {
+      "word": "ブ",
+      "meaning": "",
+      "pronunciation": "bu",
+      "spelling": "bu",
+      "keyboard": "bu"
+    },
+    {
+      "word": "ベ",
+      "meaning": "",
+      "pronunciation": "be",
+      "spelling": "be",
+      "keyboard": "be"
+    },
+    {
+      "word": "ボ",
+      "meaning": "",
+      "pronunciation": "bo",
+      "spelling": "bo",
+      "keyboard": "bo"
+    },
+    {
+      "word": "パ",
+      "meaning": "",
+      "pronunciation": "pa",
+      "spelling": "pa",
+      "keyboard": "pa"
+    },
+    {
+      "word": "ピ",
+      "meaning": "",
+      "pronunciation": "pi",
+      "spelling": "pi",
+      "keyboard": "pi"
+    },
+    {
+      "word": "プ",
+      "meaning": "",
+      "pronunciation": "pu",
+      "spelling": "pu",
+      "keyboard": "pu"
+    },
+    {
+      "word": "ぺ",
+      "meaning": "",
+      "pronunciation": "pe",
+      "spelling": "pe",
+      "keyboard": "pe"
+    },
+    {
+      "word": "ポ",
+      "meaning": "",
+      "pronunciation": "po",
+      "spelling": "po",
+      "keyboard": "po"
     }
   ],
   [
@@ -2087,7 +2206,7 @@
     },
     {
       "word": "ガス",
-      "meaning": "gas (state of matter)",
+      "meaning": "gas (in gas lines)",
       "pronunciation": "gasu",
       "spelling": "gas",
       "keyboard": "gasu"
@@ -2245,6 +2364,13 @@
       "pronunciation": "dezainaa",
       "spelling": "designer",
       "keyboard": "dezaina-"
+    },
+    {
+      "word": "アイス",
+      "meaning": "ice cream",
+      "pronunciation": "aisu",
+      "spelling": "ice cream",
+      "keyboard": "aisu"
     }
   ]
 ]
