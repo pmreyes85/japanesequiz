@@ -2103,6 +2103,34 @@
       "pronunciation": "po",
       "spelling": "po",
       "keyboard": "po"
+    },
+    {
+      "word": "ファ",
+      "meaning": "",
+      "pronunciation": "fa",
+      "spelling": "fa",
+      "keyboard": "fa"
+    },
+    {
+      "word": "フィ",
+      "meaning": "",
+      "pronunciation": "fi",
+      "spelling": "fi",
+      "keyboard": "fi"
+    },
+    {
+      "word": "フェ",
+      "meaning": "",
+      "pronunciation": "fe",
+      "spelling": "fe",
+      "keyboard": "fe"
+    },
+    {
+      "word": "フォ",
+      "meaning": "",
+      "pronunciation": "fo",
+      "spelling": "fo",
+      "keyboard": "fo"
     }
   ],
   [
@@ -2371,6 +2399,69 @@
       "pronunciation": "aisu",
       "spelling": "ice cream",
       "keyboard": "aisu"
+    },
+    {
+      "word": "ベース",
+      "meaning": "bass (instrument) or base (baseball)",
+      "pronunciation": "beesu",
+      "spelling": "bass or base",
+      "keyboard": "be-su"
+    },
+    {
+      "word": "サボる",
+      "meaning": "to slack off",
+      "pronunciation": "saboru",
+      "spelling": "to slack off",
+      "keyboard": "saboru"
+    },
+    {
+      "word": "コーヒー",
+      "meaning": "coffee",
+      "pronunciation": "koofii",
+      "spelling": "coffee",
+      "keyboard": "ko-fi-"
+    },
+    {
+      "word": "デパート",
+      "meaning": "department store",
+      "pronunciation": "depaato",
+      "spelling": "department store",
+      "keyboard": "depa-to"
+    },
+    {
+      "word": "ビジネス",
+      "meaning": "business",
+      "pronunciation": "bijinesu",
+      "spelling": "business",
+      "keyboard": "bijinesu"
+    },
+    {
+      "word": "パーティー",
+      "meaning": "party",
+      "pronunciation": "paatii",
+      "spelling": "party",
+      "keyboard": "pa-texi-"
+    },
+    {
+      "word": "ピカピカ",
+      "meaning": "shiny, sparkling",
+      "pronunciation": "pikapika",
+      "spelling": "shiny, sparkling",
+      "keyboard": "pikapika"
+    },
+    {
+      "word": "ゴボゴボ",
+      "meaning": "sound of rushing water",
+      "pronunciation": "gobogobo",
+      "spelling": "sound of rushing water",
+      "keyboard": "gobogobo"
+    },
+    {
+      "word": "スマート",
+      "meaning": "smart-looking",
+      "pronunciation": "sumaato",
+      "spelling": "smart-looking",
+      "keyboard": "suma-to"
     }
   ]
 ]
