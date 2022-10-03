@@ -2131,6 +2131,41 @@
       "pronunciation": "fo",
       "spelling": "fo",
       "keyboard": "fo"
+    },
+    {
+      "word": "マ",
+      "meaning": "",
+      "pronunciation": "ma",
+      "spelling": "ma",
+      "keyboard": "ma"
+    },
+    {
+      "word": "ミ",
+      "meaning": "",
+      "pronunciation": "mi",
+      "spelling": "mi",
+      "keyboard": "mi"
+    },
+    {
+      "word": "ム",
+      "meaning": "",
+      "pronunciation": "mu",
+      "spelling": "mu",
+      "keyboard": "mu"
+    },
+    {
+      "word": "メ",
+      "meaning": "",
+      "pronunciation": "me",
+      "spelling": "me",
+      "keyboard": "me"
+    },
+    {
+      "word": "モ",
+      "meaning": "",
+      "pronunciation": "mo",
+      "spelling": "mo",
+      "keyboard": "mo"
     }
   ],
   [
@@ -2462,6 +2497,62 @@
       "pronunciation": "sumaato",
       "spelling": "smart-looking",
       "keyboard": "suma-to"
+    },
+    {
+      "word": "ゲーム",
+      "meaning": "games",
+      "pronunciation": "geemu",
+      "spelling": "games",
+      "keyboard": "ge-mu"
+    },
+    {
+      "word": "スマホ",
+      "meaning": "smartphone (abbreviation)",
+      "pronunciation": "sumaho",
+      "spelling": "smartphone",
+      "keyboard": "sumaho"
+    },
+    {
+      "word": "メモる",
+      "meaning": "to take a memo, to take a note",
+      "pronunciation": "memoru",
+      "spelling": "to take a memo, to take a note",
+      "keyboard": "memoru"
+    },
+    {
+      "word": "イメージ",
+      "meaning": "illustration",
+      "pronunciation": "imeeji",
+      "spelling": "illustration",
+      "keyboard": "ime-ji"
+    },
+    {
+      "word": "デジカメ",
+      "meaning": "digital camera (abbreviation)",
+      "pronunciation": "dejikame",
+      "spelling": "digital camera",
+      "keyboard": "dejikame"
+    },
+    {
+      "word": "マスコミ",
+      "meaning": "mass communication (abbreviation), media",
+      "pronunciation": "masukomi",
+      "spelling": "mass communication",
+      "keyboard": "masukomi"
+    },
+    {
+      "word": "けしゴム",
+      "meaning": "eraser",
+      "pronunciation": "keshigomu",
+      "spelling": "eraser",
+      "keyboard": "keshigomu"
+    },
+    {
+      "word": "メキシコ",
+      "meaning": "Mexico",
+      "pronunciation": "mekishiko",
+      "spelling": "Mexico",
+      "keyboard": "mekishiko"
     }
   ]
 ]
