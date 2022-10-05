@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/japanesequiz/static/css/main.f29ae65a.chunk.css",
-    "main.js": "/japanesequiz/static/js/main.77444ffe.chunk.js",
-    "main.js.map": "/japanesequiz/static/js/main.77444ffe.chunk.js.map",
+    "main.js": "/japanesequiz/static/js/main.00ba827a.chunk.js",
+    "main.js.map": "/japanesequiz/static/js/main.00ba827a.chunk.js.map",
     "runtime-main.js": "/japanesequiz/static/js/runtime-main.064d1efb.js",
     "runtime-main.js.map": "/japanesequiz/static/js/runtime-main.064d1efb.js.map",
     "static/css/2.cbedb215.chunk.css": "/japanesequiz/static/css/2.cbedb215.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.cbedb215.chunk.css",
     "static/js/2.01f9ef4e.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.77444ffe.chunk.js"
+    "static/js/main.00ba827a.chunk.js"
   ]
 }
