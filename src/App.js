@@ -1,6 +1,7 @@
 import "./styles.css";
 import { useState } from "react";
 import lists from "./data";
+import lists2 from "./data2";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Form, Row, Button, Stack } from "react-bootstrap";
 import { useCallback, useEffect } from 'react';
@@ -36,6 +37,8 @@ function getListLabel(index) {
     return "Katakana";
   } else if(index === 3) {
     return "Katakana Words";
+  } else if(index === 4) {
+    return "Kanji";
   } else {
     return "ERROR";
   }

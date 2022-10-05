@@ -51,7 +51,7 @@
     },
     {
       "word": "く",
-      "meaning": "",
+      "meaning": "9",
       "pronunciation": "ku",
       "spelling": "ku",
       "keyboard": "ku"
@@ -100,7 +100,7 @@
     },
     {
       "word": "ご",
-      "meaning": "",
+      "meaning": "5",
       "pronunciation": "go",
       "spelling": "go",
       "keyboard": "go"
@@ -114,7 +114,7 @@
     },
     {
       "word": "し",
-      "meaning": "",
+      "meaning": "4",
       "pronunciation": "shi",
       "spelling": "shi",
       "keyboard": "shi or si"
@@ -247,7 +247,7 @@
     },
     {
       "word": "に",
-      "meaning": "",
+      "meaning": "2",
       "pronunciation": "ni",
       "spelling": "ni",
       "keyboard": "ni"
@@ -1639,6 +1639,90 @@
       "pronunciation": "hai",
       "spelling": "hai",
       "keyboard": "hai"
+    },
+    {
+      "word": "いち",
+      "meaning": "1",
+      "pronunciation": "ichi",
+      "spelling": "ichi",
+      "keyboard": "ichi,ctrl+J"
+    },
+    {
+      "word": "さん",
+      "meaning": "3",
+      "pronunciation": "san",
+      "spelling": "san",
+      "keyboard": "sann"
+    },
+    {
+      "word": "よん",
+      "meaning": "4",
+      "pronunciation": "yon",
+      "spelling": "yon",
+      "keyboard": "yonn"
+    },
+    {
+      "word": "ろく",
+      "meaning": "6",
+      "pronunciation": "roku",
+      "spelling": "roku",
+      "keyboard": "roku"
+    },
+    {
+      "word": "しち",
+      "meaning": "7",
+      "pronunciation": "shichi",
+      "spelling": "shichi",
+      "keyboard": "shichi"
+    },
+    {
+      "word": "なな",
+      "meaning": "7",
+      "pronunciation": "nana",
+      "spelling": "nana",
+      "keyboard": "nana"
+    },
+    {
+      "word": "はち",
+      "meaning": "8",
+      "pronunciation": "hachi",
+      "spelling": "hachi",
+      "keyboard": "hachi"
+    },
+    {
+      "word": "きゅう",
+      "meaning": "9",
+      "pronunciation": "kyuu",
+      "spelling": "kyuu",
+      "keyboard": "kyuu"
+    },
+    {
+      "word": "じゅう",
+      "meaning": "10",
+      "pronunciation": "juu",
+      "spelling": "juu",
+      "keyboard": "juu"
+    },
+    {
+      "word": "れい",
+      "meaning": "0",
+      "pronunciation": "rei",
+      "spelling": "rei",
+      "keyboard": "rei"
+    },
+    {
+      "word": "ゼロ",
+      "meaning": "0",
+      "pronunciation": "zero",
+      "spelling": "zero",
+      "keyboard": "zero"
+    },
+    {
+      "word": "まる",
+      "meaning": "0",
+      "pronunciation": "maru",
+      "spelling": "maru",
+      "keyboard": "maru"
     }
   ],
   [
@@ -3001,6 +3085,85 @@
       "pronunciation": "ribingu",
       "spelling": "living room",
       "keyboard": "ribinngu"
+    }
+  ],
+  [
+    {
+      "word": "一",
+      "meaning": "1",
+      "pronunciation": "ichi",
+      "spelling": "ichi",
+      "keyboard": "1"
+    },
+    {
+      "word": "二",
+      "meaning": "2",
+      "pronunciation": "ni",
+      "spelling": "ni",
+      "keyboard": "2"
+    },
+    {
+      "word": "三",
+      "meaning": "3",
+      "pronunciation": "san",
+      "spelling": "san",
+      "keyboard": "3"
+    },
+    {
+      "word": "四",
+      "meaning": "4",
+      "pronunciation": "shi or yon",
+      "spelling": "shi or yon",
+      "keyboard": "4"
+    },
+    {
+      "word": "五",
+      "meaning": "5",
+      "pronunciation": "go",
+      "spelling": "go",
+      "keyboard": "5"
+    },
+    {
+      "word": "六",
+      "meaning": "6",
+      "pronunciation": "roku",
+      "spelling": "roku",
+      "keyboard": "6"
+    },
+    {
+      "word": "七",
+      "meaning": "7",
+      "pronunciation": "shichi or nana",
+      "spelling": "shichi or nana",
+      "keyboard": "7"
+    },
+    {
+      "word": "八",
+      "meaning": "8",
+      "pronunciation": "hachi",
+      "spelling": "hachi",
+      "keyboard": "8"
+    },
+    {
+      "word": "九",
+      "meaning": "9",
+      "pronunciation": "ku or kyuu",
+      "spelling": "ku or kyuu",
+      "keyboard": "9"
+    },
+    {
+      "word": "十",
+      "meaning": "10",
+      "pronunciation": "juu",
+      "spelling": "juu",
+      "keyboard": "10"
+    },
+    {
+      "word": "零",
+      "meaning": "0",
+      "pronunciation": "rei or zero or maru",
+      "spelling": "rei or zero or maru",
+      "keyboard": "0"
     }
   ]
 ]
