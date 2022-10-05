@@ -1723,6 +1723,41 @@
       "pronunciation": "maru",
       "spelling": "maru",
       "keyboard": "maru"
+    },
+    {
+      "word": "これ",
+      "meaning": "this (near speaker)",
+      "pronunciation": "kore",
+      "spelling": "kore",
+      "keyboard": "kore"
+    },
+    {
+      "word": "それ",
+      "meaning": "that (near listener)",
+      "pronunciation": "sore",
+      "spelling": "sore",
+      "keyboard": "sore"
+    },
+    {
+      "word": "あれ",
+      "meaning": "that (far from speaker and listener)",
+      "pronunciation": "are",
+      "spelling": "are",
+      "keyboard": "are"
+    },
+    {
+      "word": "どれ",
+      "meaning": "which one?",
+      "pronunciation": "dore",
+      "spelling": "dore",
+      "keyboard": "dore"
+    },
+    {
+      "word": "みず",
+      "meaning": "water",
+      "pronunciation": "mizu",
+      "spelling": "mizu",
+      "keyboard": "mizu"
     }
   ],
   [
@@ -3085,6 +3120,34 @@
       "pronunciation": "ribingu",
       "spelling": "living room",
       "keyboard": "ribinngu"
+    },
+    {
+      "word": "コミック",
+      "meaning": "comics",
+      "pronunciation": "komi-ku",
+      "spelling": "comics",
+      "keyboard": "komikku"
+    },
+    {
+      "word": "タオル",
+      "meaning": "towel",
+      "pronunciation": "taoru",
+      "spelling": "towel",
+      "keyboard": "taoru"
+    },
+    {
+      "word": "セルフセービス",
+      "meaning": "self service",
+      "pronunciation": "serfsebisu",
+      "spelling": "serufuseebisu",
+      "keyboard": "serufuse-bisu"
+    },
+    {
+      "word": "テレワーク",
+      "meaning": "telework or remote work",
+      "pronunciation": "terewaaku",
+      "spelling": "telework or remote work",
+      "keyboard": "terewa-ku"
     }
   ],
   [
@@ -3164,6 +3227,85 @@
       "pronunciation": "rei or zero or maru",
       "spelling": "rei or zero or maru",
       "keyboard": "0"
+    },
+    {
+      "word": "私",
+      "meaning": "I",
+      "pronunciation": "watashi",
+      "spelling": "watashi",
+      "keyboard": "watashi"
+    },
+    {
+      "word": "水",
+      "meaning": "water",
+      "pronunciation": "mizu",
+      "spelling": "mizu",
+      "keyboard": "mizu"
+    }
+  ],
+  [
+    {
+      "word": "はじめまして。",
+      "meaning": "Nice to meet you",
+      "pronunciation": "hajimemashte",
+      "spelling": "hajimemashite",
+      "keyboard": "hajimemashite."
+    },
+    {
+      "word": "わたしはかおりです。",
+      "meaning": "Iam Kaori or My name is Kaori",
+      "pronunciation": "watashiwa kaorides",
+      "spelling": "watashihakaoridesu",
+      "keyboard": "watashihakaoridesu."
+    },
+    {
+      "word": "私はかおりです。",
+      "meaning": "Iam Kaori or My name is Kaori",
+      "pronunciation": "watashiwa kaorides",
+      "spelling": "watashihakaoridesu",
+      "keyboard": "watashihakaoridesu."
+    },
+    {
+      "word": "かおりです。",
+      "meaning": "Iam Kaori",
+      "pronunciation": "kaorides",
+      "spelling": "kaoridesu",
+      "keyboard": "kaoridesu."
+    },
+    {
+      "word": "私はパイロットです。",
+      "meaning": "Iam a pilot",
+      "pronunciation": "watashiwa pairotodes",
+      "spelling": "watashiwapairotodesu",
+      "keyboard": "watashiwapairottodesu."
+    },
+    {
+      "word": "これはみずですか。",
+      "meaning": "Is this water?",
+      "pronunciation": "korewa mizudeska?",
+      "spelling": "korehamizudesuka",
+      "keyboard": "korehamizudesuka."
+    },
+    {
+      "word": "これは水ですか。",
+      "meaning": "Is this water?",
+      "pronunciation": "korewa mizudeska?",
+      "spelling": "korehamizudesuka",
+      "keyboard": "korehamizudesuka."
+    },
+    {
+      "word": "これはコミックです。",
+      "meaning": "This are comics.",
+      "pronunciation": "korewa komikudes",
+      "spelling": "korehakomikudesu",
+      "keyboard": "korehakomikkudesu."
+    },
+    {
+      "word": "これはタオルですか。",
+      "meaning": "Is this a towel?",
+      "pronunciation": "korewa taorudeska?",
+      "spelling": "korehataorudesuka",
+      "keyboard": "korehataorudesuka."
     }
   ]
 ]

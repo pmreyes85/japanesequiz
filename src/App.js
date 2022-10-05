@@ -39,6 +39,8 @@ function getListLabel(index) {
     return "Katakana Words";
   } else if(index === 4) {
     return "Kanji";
+  } else if(index === 5) {
+    return "Sentences";
   } else {
     return "ERROR";
   }
