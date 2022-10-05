@@ -2453,6 +2453,27 @@
       "pronunciation": "ryo",
       "spelling": "ryo",
       "keyboard": "ryo"
+    },
+    {
+      "word": "ワ",
+      "meaning": "",
+      "pronunciation": "wa",
+      "spelling": "wa",
+      "keyboard": "wa"
+    },
+    {
+      "word": "ヲ",
+      "meaning": "",
+      "pronunciation": "wo or o",
+      "spelling": "wo",
+      "keyboard": "wo"
+    },
+    {
+      "word": "ン",
+      "meaning": "",
+      "pronunciation": "n",
+      "spelling": "n",
+      "keyboard": "nn"
     }
   ],
   [
@@ -2959,6 +2980,27 @@
       "pronunciation": "kyasshukaado",
       "spelling": "bank card",
       "keyboard": "kyasshuka-do"
+    },
+    {
+      "word": "パソコン",
+      "meaning": "computer",
+      "pronunciation": "pasokon",
+      "spelling": "computer",
+      "keyboard": "pasokonn"
+    },
+    {
+      "word": "キャンセル",
+      "meaning": "cancel",
+      "pronunciation": "kyanseru",
+      "spelling": "cancel",
+      "keyboard": "kyannseru"
+    },
+    {
+      "word": "リビング",
+      "meaning": "living room",
+      "pronunciation": "ribingu",
+      "spelling": "living room",
+      "keyboard": "ribinngu"
     }
   ]
 ]
