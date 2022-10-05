@@ -1,0 +1,42 @@
+[
+    {
+        "word": "たつ",
+        "meaning": "to stand",
+        "pronunciation": "tatsu",
+        "spelling": "tatsu",
+        "keyboard": "tatsu",
+        "tags": [
+            "h-word"
+        ]
+    },
+    {
+        "word": "げ",
+        "meaning": "",
+        "pronunciation": "ge",
+        "spelling": "ge",
+        "keyboard": "ge",
+        "tags": [
+            "h-char"
+        ]
+    },
+    {
+        "word": "ア",
+        "meaning": "",
+        "pronunciation": "a",
+        "spelling": "a",
+        "keyboard": "a ",
+        "tags": [
+            "k-char"
+        ]
+    },
+    {
+        "word": "リビング",
+        "meaning": "living room",
+        "pronunciation": "ribingu",
+        "spelling": "living room",
+        "keyboard": "ribinngu",
+        "tags": [
+            "k-word"
+        ]
+    }
+]
