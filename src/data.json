@@ -1244,9 +1244,9 @@
     {
       "word": "ふしぎ",
       "meaning": "mysterious",
-      "pronunciation": "hushigi",
-      "spelling": "bushigi",
-      "keyboard": "bushigi"
+      "pronunciation": "fushigi",
+      "spelling": "fushigi",
+      "keyboard": "fushigi"
     },
     {
       "word": "はなび",
@@ -1508,13 +1508,6 @@
       "keyboard": "nuru"
     },
     {
-      "word": "ぱいずり",
-      "meaning": "bucking",
-      "pronunciation": "paizuri",
-      "spelling": "paizuri",
-      "keyboard": "paizuri"
-    },
-    {
       "word": "とび",
       "meaning": "jump",
       "pronunciation": "tobi",
@@ -1758,6 +1751,34 @@
       "pronunciation": "mizu",
       "spelling": "mizu",
       "keyboard": "mizu"
+    },
+    {
+      "word": "たぬき",
+      "meaning": "raccoon",
+      "pronunciation": "tanuki",
+      "spelling": "tanuki",
+      "keyboard": "tanuki"
+    },
+    {
+      "word": "どく",
+      "meaning": "where",
+      "pronunciation": "doku",
+      "spelling": "doku",
+      "keyboard": "doku"
+    },
+    {
+      "word": "ちゅうもん",
+      "meaning": "order (restaurant)",
+      "pronunciation": "chuumon",
+      "spelling": "chuumon",
+      "keyboard": "chuumonn"
+    },
+    {
+      "word": "うどん",
+      "meaning": "udon",
+      "pronunciation": "udon",
+      "spelling": "udon",
+      "keyboard": "udonn"
     }
   ],
   [
@@ -2997,9 +3018,9 @@
     },
     {
       "word": "トイレ",
-      "meaning": "toilet",
+      "meaning": "toilet or bathroom",
       "pronunciation": "toire",
-      "spelling": "toilet",
+      "spelling": "toilet or bathroom",
       "keyboard": "toire"
     },
     {
@@ -3241,6 +3262,135 @@
       "pronunciation": "mizu",
       "spelling": "mizu",
       "keyboard": "mizu"
+    },
+    {
+      "word": "先生",
+      "meaning": "teacher",
+      "pronunciation": "sensei",
+      "spelling": "sensei",
+      "keyboard": "sennsei"
+    },
+    {
+      "word": "何",
+      "meaning": "what",
+      "pronunciation": "nan",
+      "spelling": "nan",
+      "keyboard": "nann"
+    },
+    {
+      "word": "今",
+      "meaning": "now",
+      "pronunciation": "ima",
+      "spelling": "ima",
+      "keyboard": "ima"
+    },
+    {
+      "word": "何時",
+      "meaning": "what time",
+      "pronunciation": "nanji",
+      "spelling": "nanji",
+      "keyboard": "nannji"
+    },
+    {
+      "word": "一時",
+      "meaning": "1 o'clock",
+      "pronunciation": "ichiji",
+      "spelling": "nanji",
+      "keyboard": "nannji"
+    },
+    {
+      "word": "二時",
+      "meaning": "2 o'clock",
+      "pronunciation": "niji",
+      "spelling": "niji",
+      "keyboard": "niji"
+    },
+    {
+      "word": "三時",
+      "meaning": "3 o'clock",
+      "pronunciation": "sanji",
+      "spelling": "sanji",
+      "keyboard": "sanji"
+    },
+    {
+      "word": "四時",
+      "meaning": "4 o'clock",
+      "pronunciation": "yoji",
+      "spelling": "yoji",
+      "keyboard": "yoji",
+      "notes": "Don't say よんじ - it's よじ. Also, don't say しじ even if し means 4."
+    },
+    {
+      "word": "五時",
+      "meaning": "5 o'clock",
+      "pronunciation": "goji",
+      "spelling": "goji",
+      "keyboard": "goji"
+    },
+    {
+      "word": "六時",
+      "meaning": "6 o'clock",
+      "pronunciation": "rokuji",
+      "spelling": "rokuji",
+      "keyboard": "rokuji"
+    },
+    {
+      "word": "七時",
+      "meaning": "7 o'clock",
+      "pronunciation": "shichiji or nanaji",
+      "spelling": "shichiji or nanaji",
+      "keyboard": "shichiji or nanaji",
+      "notes": "しちじ is used in conversations but in train stations and airports, they use ななじ."
+    },
+    {
+      "word": "八時",
+      "meaning": "8 o'clock",
+      "pronunciation": "hachiji",
+      "spelling": "hachiji",
+      "keyboard": "hachiji"
+    },
+    {
+      "word": "九時",
+      "meaning": "9 o'clock",
+      "pronunciation": "kuji",
+      "spelling": "kuji",
+      "keyboard": "kuji",
+      "notes": "Don't say きゅうじ even if きゅう means 9."
+    },
+    {
+      "word": "十時",
+      "meaning": "10 o'clock",
+      "pronunciation": "juuji",
+      "spelling": "juuji",
+      "keyboard": "juuji"
+    },
+    {
+      "word": "十一時",
+      "meaning": "11 o'clock",
+      "pronunciation": "juuichiji",
+      "spelling": "juuichiji",
+      "keyboard": "juuichiji"
+    },
+    {
+      "word": "十二時",
+      "meaning": "12 o'clock",
+      "pronunciation": "juuniji",
+      "spelling": "juuniji",
+      "keyboard": "juuniji"
+    },
+    {
+      "word": "注文",
+      "meaning": "order (restaurant)",
+      "pronunciation": "chuumon",
+      "spelling": "chuumon",
+      "keyboard": "chuumonn"
+    },
+    {
+      "word": "円",
+      "meaning": "yen",
+      "pronunciation": "en",
+      "spelling": "en",
+      "keyboard": "enn"
     }
   ],
   [
@@ -3250,6 +3400,20 @@
       "pronunciation": "hajimemashte",
       "spelling": "hajimemashite",
       "keyboard": "hajimemashite."
+    },
+    {
+      "word": "はい、そうです。",
+      "meaning": "Yes, that's right.",
+      "pronunciation": "hai, sodes",
+      "spelling": "hai, soudesu.",
+      "keyboard": "haj,soudesu."
+    },
+    {
+      "word": "いいえ、ちがいます。",
+      "meaning": "No, that's wrong.",
+      "pronunciation": "iie, chigaimas.",
+      "spelling": "iie, chigaimasu.",
+      "keyboard": "iie,chigaimasu."
     },
     {
       "word": "わたしはかおりです。",
@@ -3306,6 +3470,85 @@
       "pronunciation": "korewa taorudeska?",
       "spelling": "korehataorudesuka",
       "keyboard": "korehataorudesuka."
+    },
+    {
+      "word": "今、何時ですか。",
+      "meaning": "What time is it now? (formal)",
+      "pronunciation": "ima, nanjideska?",
+      "spelling": "ima, nanjidesuka?",
+      "keyboard": "ima,nannjidesuka."
+    },
+    {
+      "word": "今、何時？",
+      "meaning": "What time is it? (casual)",
+      "pronunciation": "ima, nanji?",
+      "spelling": "ima, nanji?",
+      "keyboard": "ima,nannji?"
+    },
+    {
+      "word": "四時です。",
+      "meaning": "It's 4 o'clock",
+      "pronunciation": "yojides",
+      "spelling": "yojidesu.",
+      "keyboard": "yojidesu."
+    },
+    {
+      "word": "トイレはどくですか。",
+      "meaning": "Where's the bathroom?",
+      "pronunciation": "toirewa, dokudeska?",
+      "spelling": "toirewadokudesuka.",
+      "keyboard": "toirehadokudesuka."
+    },
+    {
+      "word": "メニュー、お願いします。",
+      "meaning": "Menu, please?",
+      "pronunciation": "Menyu, onegaishimas?",
+      "spelling": "menyu, onegaishimasu.",
+      "keyboard": "menyu-,onegaishimasu."
+    },
+    {
+      "word": "注文、お願いします。",
+      "meaning": "Can you take my order, please?",
+      "pronunciation": "chumon, onegaishimas?",
+      "spelling": "chuumon, onegaishimasu.",
+      "keyboard": "chuumonn,onegaishimasu."
+    },
+    {
+      "word": "ここは鍵ではありません。",
+      "meaning": "The key isn't here.",
+      "pronunciation": "kokowa kagi dewa arimasen.",
+      "spelling": "menyu, onegaishimasu.",
+      "keyboard": "menyu-,onegaishimasu.",
+      "notes": "Most polite of the three negative forms of です. Not typically used when speaking. Used more for writing."
+    },
+    {
+      "word": "ラリーじゃありません。",
+      "meaning": "I am not Larry.",
+      "pronunciation": "rari ja arimasen.",
+      "spelling": "rariijaarimasen.",
+      "keyboard": "rari-jaarimasenn."
+    },
+    {
+      "word": "私はロリーではありません。",
+      "meaning": "I am not Lori.",
+      "pronunciation": "watashiwa rorii dewa arimasen.",
+      "spelling": "watashiwaroriidewaarimasen.",
+      "keyboard": "watashiharori-dehaarimasenn."
+    },
+    {
+      "word": "それはヌルじゃないです。",
+      "meaning": "That is not slimy.",
+      "pronunciation": "sorewa nuru janaides.",
+      "spelling": "sorewanurujanaidesu.",
+      "keyboard": "sorewanurujanaidesu."
+    },
+    {
+      "word": "ケネヂィはアメリカ人でした。",
+      "meaning": "JFK was an American.",
+      "pronunciation": "kenediwa amerikajin deshta.",
+      "spelling": "kenediwaamerikajindeshita.",
+      "keyboard": "kenedixihaamerikajindeshita.",
+      "notes": "でした is the polite past tense form of です."
     }
   ]
 ]
