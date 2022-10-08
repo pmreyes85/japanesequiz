@@ -282,7 +282,7 @@
     },
     {
       "word": "ひ",
-      "meaning": "",
+      "meaning": "fire",
       "pronunciation": "hi",
       "spelling": "hi",
       "keyboard": "hi"
@@ -1487,13 +1487,6 @@
       "keyboard": "nuigurumi"
     },
     {
-      "word": "まる",
-      "meaning": "circle",
-      "pronunciation": "maru",
-      "spelling": "maru",
-      "keyboard": "maru"
-    },
-    {
       "word": "しかまる",
       "meaning": "squat",
       "pronunciation": "shikamaru",
@@ -1559,7 +1552,7 @@
     {
       "word": "きょう",
       "meaning": "today",
-      "pronunciation": "kyo",
+      "pronunciation": "kyoh",
       "spelling": "kyō",
       "keyboard": "kyou"
     },
@@ -1712,7 +1705,7 @@
     },
     {
       "word": "まる",
-      "meaning": "0",
+      "meaning": "0 or circle",
       "pronunciation": "maru",
       "spelling": "maru",
       "keyboard": "maru"
@@ -1779,6 +1772,97 @@
       "pronunciation": "udon",
       "spelling": "udon",
       "keyboard": "udonn"
+    },
+    {
+      "word": "あした",
+      "meaning": "tomorrow",
+      "pronunciation": "ashta",
+      "spelling": "ashita",
+      "keyboard": "ashita"
+    },
+    {
+      "word": "げつようび",
+      "meaning": "Monday",
+      "pronunciation": "getsuyohbi",
+      "spelling": "getsuyoubi",
+      "keyboard": "getsuyoubi"
+    },
+    {
+      "word": "かようび",
+      "meaning": "Tuesday",
+      "pronunciation": "kayohbi",
+      "spelling": "kayoubi",
+      "keyboard": "kayoubi"
+    },
+    {
+      "word": "すいようび",
+      "meaning": "Wednesday",
+      "pronunciation": "suiyohbi",
+      "spelling": "suiyoubi",
+      "keyboard": "suiyoubi"
+    },
+    {
+      "word": "もくようび",
+      "meaning": "Thursday",
+      "pronunciation": "mokuyohbi",
+      "spelling": "mokuyoubi",
+      "keyboard": "mokuyoubi"
+    },
+    {
+      "word": "きんようび",
+      "meaning": "Friday",
+      "pronunciation": "kinyohbi",
+      "spelling": "kinyoubi",
+      "keyboard": "kinnyoubi"
+    },
+    {
+      "word": "どようび",
+      "meaning": "Saturday",
+      "pronunciation": "doyoubi",
+      "spelling": "doyoubi",
+      "keyboard": "doyoubi"
+    },
+    {
+      "word": "にちようび",
+      "meaning": "Sunday",
+      "pronunciation": "nichiyohbi",
+      "spelling": "nichiyoubi",
+      "keyboard": "nichiyoubi"
+    },
+    {
+      "word": "つき",
+      "meaning": "moon",
+      "pronunciation": "tski",
+      "spelling": "tsuki",
+      "keyboard": "tsuki"
+    },
+    {
+      "word": "もく",
+      "meaning": "wood",
+      "pronunciation": "moku",
+      "spelling": "moku",
+      "keyboard": "moku"
+    },
+    {
+      "word": "きん",
+      "meaning": "gold",
+      "pronunciation": "kin",
+      "spelling": "kin",
+      "keyboard": "kinn"
+    },
+    {
+      "word": "つち",
+      "meaning": "soil",
+      "pronunciation": "tschi",
+      "spelling": "tsuchi",
+      "keyboard": "tsuchi"
+    },
+    {
+      "word": "でも",
+      "meaning": "but",
+      "pronunciation": "demo",
+      "spelling": "demo",
+      "keyboard": "demo"
     }
   ],
   [
@@ -2625,7 +2709,7 @@
       "keyboard": "a!"
     },
     {
-      "word": "オ＝",
+      "word": "オー",
       "meaning": "expression when being amazed",
       "pronunciation": "Oooo",
       "spelling": "oo",
@@ -3169,6 +3253,13 @@
       "pronunciation": "terewaaku",
       "spelling": "telework or remote work",
       "keyboard": "terewa-ku"
+    },
+    {
+      "word": "ドル",
+      "meaning": "dollar",
+      "pronunciation": "doru",
+      "spelling": "doru",
+      "keyboard": "doru"
     }
   ],
   [
@@ -3391,6 +3482,136 @@
       "pronunciation": "en",
       "spelling": "en",
       "keyboard": "enn"
+    },
+    {
+      "word": "明日",
+      "meaning": "tomorrow",
+      "pronunciation": "ashta",
+      "spelling": "ashita",
+      "keyboard": "ashita"
+    },
+    {
+      "word": "月曜日",
+      "meaning": "Monday",
+      "pronunciation": "getsuyohbi",
+      "spelling": "getsuyoubi",
+      "keyboard": "getsuyoubi"
+    },
+    {
+      "word": "火曜日",
+      "meaning": "Tuesday",
+      "pronunciation": "kayohbi",
+      "spelling": "kayoubi",
+      "keyboard": "kayoubi"
+    },
+    {
+      "word": "水曜日",
+      "meaning": "Wednesday",
+      "pronunciation": "suiyohbi",
+      "spelling": "suiyoubi",
+      "keyboard": "suiyoubi"
+    },
+    {
+      "word": "木曜日",
+      "meaning": "Thursday",
+      "pronunciation": "mokuyohbi",
+      "spelling": "mokuyoubi",
+      "keyboard": "mokuyoubi"
+    },
+    {
+      "word": "金曜日",
+      "meaning": "Friday",
+      "pronunciation": "kinyohbi",
+      "spelling": "kinyoubi",
+      "keyboard": "kinnyoubi"
+    },
+    {
+      "word": "土曜日",
+      "meaning": "Saturday",
+      "pronunciation": "doyoubi",
+      "spelling": "doyoubi",
+      "keyboard": "doyoubi"
+    },
+    {
+      "word": "日曜日",
+      "meaning": "Sunday",
+      "pronunciation": "nichiyohbi",
+      "spelling": "nichiyoubi",
+      "keyboard": "nichiyoubi"
+    },
+    {
+      "word": "月",
+      "meaning": "moon",
+      "pronunciation": "tski",
+      "spelling": "tsuki",
+      "keyboard": "tsuki"
+    },
+    {
+      "word": "火",
+      "meaning": "fire",
+      "pronunciation": "hi",
+      "spelling": "hi",
+      "keyboard": "hi"
+    },
+    {
+      "word": "木",
+      "meaning": "wood",
+      "pronunciation": "moku",
+      "spelling": "moku",
+      "keyboard": "moku"
+    },
+    {
+      "word": "金",
+      "meaning": "gold",
+      "pronunciation": "kin",
+      "spelling": "kin",
+      "keyboard": "kinn"
+    },
+    {
+      "word": "土",
+      "meaning": "soil",
+      "pronunciation": "tschi",
+      "spelling": "tsuchi",
+      "keyboard": "tsuchi"
+    },
+    {
+      "word": "今日",
+      "meaning": "today",
+      "pronunciation": "kyoh",
+      "spelling": "kyō",
+      "keyboard": "kyou"
+    },
+    {
+      "word": "雨",
+      "meaning": "rain",
+      "pronunciation": "ame",
+      "spelling": "ame",
+      "keyboard": "ame",
+      "notes": "Spoken slowly. If spoken quickly, あめ will mean candy."
+    },
+    {
+      "word": "薬",
+      "meaning": "medicine",
+      "pronunciation": "kusuri",
+      "spelling": "kusuri",
+      "keyboard": "kusuri",
+      "notes": ""
+    },
+    {
+      "word": "犬",
+      "meaning": "dog",
+      "pronunciation": "inu",
+      "spelling": "inu",
+      "keyboard": "inu",
+      "notes": ""
+    },
+    {
+      "word": "猫",
+      "meaning": "cat",
+      "pronunciation": "neko",
+      "spelling": "neko",
+      "keyboard": "neko",
+      "notes": ""
     }
   ],
   [
@@ -3549,6 +3770,30 @@
       "spelling": "kenediwaamerikajindeshita.",
       "keyboard": "kenedixihaamerikajindeshita.",
       "notes": "でした is the polite past tense form of です."
+    },
+    {
+      "word": "明日は土曜日です。",
+      "meaning": "Tomorrow is Saturday.",
+      "pronunciation": "ashta wa doyoubi des.",
+      "spelling": "ashitawadoyoubidesu.",
+      "keyboard": "ashitawadoyoubidesu.",
+      "notes": ""
+    },
+    {
+      "word": "出身はどこですか。",
+      "meaning": "Where are you from?",
+      "pronunciation": "shusshinwa dokodeska?",
+      "spelling": "shusshin wa doko desuka.",
+      "keyboard": "shusshinnhadokodesuka.",
+      "notes": ""
+    },
+    {
+      "word": "今日は雨です。",
+      "meaning": "It's rainy today",
+      "pronunciation": "kyohwa amedes.",
+      "spelling": "kyō wa ame desu.",
+      "keyboard": "kyouhaamedesu.",
+      "notes": ""
     }
   ]
 ]
