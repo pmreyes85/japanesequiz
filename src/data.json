@@ -1863,6 +1863,70 @@
       "pronunciation": "demo",
       "spelling": "demo",
       "keyboard": "demo"
+    },
+    {
+      "word": "〜も",
+      "meaning": "also",
+      "pronunciation": "~mo",
+      "spelling": "~mo",
+      "keyboard": "~mo",
+      "notes": ""
+    },
+    {
+      "word": "まだ",
+      "meaning": "still",
+      "pronunciation": "mada",
+      "spelling": "mada",
+      "keyboard": "mada",
+      "notes": ""
+    },
+    {
+      "word": "それから",
+      "meaning": "then",
+      "pronunciation": "sorekara",
+      "spelling": "sorekara",
+      "keyboard": "sorekara",
+      "notes": ""
+    },
+    {
+      "word": "けれども",
+      "meaning": "however",
+      "pronunciation": "keredomo",
+      "spelling": "keredomo",
+      "keyboard": "keredomo",
+      "notes": ""
+    },
+    {
+      "word": "だから",
+      "meaning": "therefore",
+      "pronunciation": "dakara",
+      "spelling": "dakara",
+      "keyboard": "dakara",
+      "notes": ""
+    },
+    {
+      "word": "げんざい",
+      "meaning": "currently",
+      "pronunciation": "genzai",
+      "spelling": "genzai",
+      "keyboard": "gennzai",
+      "notes": ""
+    },
+    {
+      "word": "そのけっか",
+      "meaning": "consequently",
+      "pronunciation": "sonokekka",
+      "spelling": "sonokekka",
+      "keyboard": "sonokekka",
+      "notes": ""
+    },
+    {
+      "word": "さいしゅうてきに",
+      "meaning": "eventually",
+      "pronunciation": "saishu teki ni",
+      "spelling": "saishū teki ni",
+      "keyboard": "saishuutekini",
+      "notes": ""
     }
   ],
   [
@@ -3611,6 +3675,46 @@
       "pronunciation": "neko",
       "spelling": "neko",
       "keyboard": "neko",
+      "notes": ""
+    },
+    {
+      "word": "鍵",
+      "meaning": "key",
+      "pronunciation": "kagi",
+      "spelling": "kagi",
+      "keyboard": "kagi",
+      "notes": ""
+    },
+    {
+      "word": "お願い",
+      "meaning": "please",
+      "pronunciation": "onegai",
+      "spelling": "onegai",
+      "keyboard": "onegai",
+      "notes": ""
+    },
+    {
+      "word": "現在",
+      "meaning": "currently",
+      "pronunciation": "genzai",
+      "spelling": "genzai",
+      "keyboard": "genzai",
+      "notes": ""
+    },
+    {
+      "word": "その結果",
+      "meaning": "consequently",
+      "pronunciation": "sonokekka",
+      "spelling": "sonokekka",
+      "keyboard": "sonokekka",
+      "notes": ""
+    },
+    {
+      "word": "最終的に",
+      "meaning": "eventually",
+      "pronunciation": "saishu teki ni",
+      "spelling": "saishū teki ni",
+      "keyboard": "saishuutekini",
       "notes": ""
     }
   ],
