@@ -75,7 +75,8 @@
       "meaning": "",
       "pronunciation": "ga",
       "spelling": "ga",
-      "keyboard": "ga"
+      "keyboard": "ga",
+      "notes": "Object marking particle."
     },
     {
       "word": "ぎ",
@@ -278,7 +279,8 @@
       "meaning": "",
       "pronunciation": "ha",
       "spelling": "ha",
-      "keyboard": "ha"
+      "keyboard": "ha",
+      "notes": "Topic marking particle. Pronounced as 'wa' when used as a particle. Can substitute for が as object marking particle to emphasize contrast."
     },
     {
       "word": "ひ",
@@ -1943,6 +1945,38 @@
       "spelling": "suru",
       "keyboard": "suru",
       "notes": "する is an irregular verb."
+    },
+    {
+      "word": "います",
+      "meaning": "to exist or to have",
+      "pronunciation": "imas",
+      "spelling": "imasu",
+      "keyboard": "imasu",
+      "notes": "Verb used to talk about the existence of animated objects like people or animals"
+    },
+    {
+      "word": "あります",
+      "meaning": "to exist or to have",
+      "pronunciation": "arimas",
+      "spelling": "arimasu",
+      "keyboard": "arimasu",
+      "notes": "Verb used to talk about the existence of something."
+    },
+    {
+      "word": "じかん",
+      "meaning": "time",
+      "pronunciation": "jikan",
+      "spelling": "jikan",
+      "keyboard": "jikann",
+      "notes": ""
+    },
+    {
+      "word": "おちゃ",
+      "meaning": "tea",
+      "pronunciation": "ocha",
+      "spelling": "ocha",
+      "keyboard": "ocha",
+      "notes": ""
     }
   ],
   [
@@ -3340,6 +3374,14 @@
       "pronunciation": "doru",
       "spelling": "doru",
       "keyboard": "doru"
+    },
+    {
+      "word": "ペット",
+      "meaning": "pet",
+      "pronunciation": "petto",
+      "spelling": "petto",
+      "keyboard": "petto",
+      "notes": ""
     }
   ],
   [
@@ -3868,6 +3910,46 @@
       "spelling": "kakimasu",
       "keyboard": "kakimasu",
       "notes": "Formal form of かく. Root word is 描き (kaki)"
+    },
+    {
+      "word": "宿題",
+      "meaning": "homework",
+      "pronunciation": "shukudai",
+      "spelling": "shukudai",
+      "keyboard": "shukudai",
+      "notes": ""
+    },
+    {
+      "word": "欲しいです",
+      "meaning": "I want",
+      "pronunciation": "hoshiides",
+      "spelling": "hoshiidesu",
+      "keyboard": "hoshiidesu",
+      "notes": "Always used when I is the topic"
+    },
+    {
+      "word": "たいです",
+      "meaning": "I want to...",
+      "pronunciation": "taides",
+      "spelling": "taidesu",
+      "keyboard": "taidesu",
+      "notes": "Verb root word + たいです = I want to <verb>. 飲みたいです means I want to drink."
+    },
+    {
+      "word": "時間",
+      "meaning": "time",
+      "pronunciation": "jikan",
+      "spelling": "jikan",
+      "keyboard": "jikann",
+      "notes": ""
+    },
+    {
+      "word": "お茶",
+      "meaning": "tea",
+      "pronunciation": "ocha",
+      "spelling": "ocha",
+      "keyboard": "ocha",
+      "notes": ""
     }
   ],
   [
@@ -4049,6 +4131,54 @@
       "pronunciation": "kyohwa amedes.",
       "spelling": "kyō wa ame desu.",
       "keyboard": "kyouhaamedesu.",
+      "notes": ""
+    },
+    {
+      "word": "ペットがいます。",
+      "meaning": "I have a pet",
+      "pronunciation": "petto ga imas.",
+      "spelling": "petto ga imasu.",
+      "keyboard": "pettogaimasu.",
+      "notes": "Pet is an animated object so います is used."
+    },
+    {
+      "word": "宿題があります。",
+      "meaning": "I have a homework",
+      "pronunciation": "shukudai ga arimas.",
+      "spelling": "shukudai ga arimasu.",
+      "keyboard": "shukudaigaarimasu.",
+      "notes": "Homework is not an animated object so あります is used."
+    },
+    {
+      "word": "時間が欲しいです。",
+      "meaning": "I want time",
+      "pronunciation": "jikan ga hoshiides.",
+      "spelling": "jikan ga hoshiidesu.",
+      "keyboard": "jikangahoshiidesu.",
+      "notes": ""
+    },
+    {
+      "word": "時間が欲しいです。",
+      "meaning": "I want time",
+      "pronunciation": "jikan ga hoshiides.",
+      "spelling": "jikan ga hoshiidesu.",
+      "keyboard": "jikangahoshiidesu.",
+      "notes": ""
+    },
+    {
+      "word": "私はお茶が飲みたいです。",
+      "meaning": "I want to drink tea.",
+      "pronunciation": "watashiwa ochaga nomitaides.",
+      "spelling": "watashi wa ocha ga nomitaidesu.",
+      "keyboard": "watashiwaochaganomitaidesu.",
+      "notes": ""
+    },
+    {
+      "word": "私はおそばが食べたいです。",
+      "meaning": "I want to eat buckwheat noodles.",
+      "pronunciation": "watashiwa sobaga tabetaides.",
+      "spelling": "watashi wa soba ga tabetaidesu.",
+      "keyboard": "watashiwasobagatabetaidesu.",
       "notes": ""
     }
   ]
