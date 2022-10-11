@@ -1753,11 +1753,11 @@
       "keyboard": "tanuki"
     },
     {
-      "word": "どく",
+      "word": "どこ",
       "meaning": "where",
-      "pronunciation": "doku",
-      "spelling": "doku",
-      "keyboard": "doku"
+      "pronunciation": "doko",
+      "spelling": "doko",
+      "keyboard": "doko"
     },
     {
       "word": "ちゅうもん",
@@ -1927,6 +1927,22 @@
       "spelling": "saishū teki ni",
       "keyboard": "saishuutekini",
       "notes": ""
+    },
+    {
+      "word": "しゅっしん",
+      "meaning": "where one is from",
+      "pronunciation": "shusshin",
+      "spelling": "shusshin",
+      "keyboard": "shusshinn",
+      "notes": ""
+    },
+    {
+      "word": "する",
+      "meaning": "to do",
+      "pronunciation": "sru",
+      "spelling": "suru",
+      "keyboard": "suru",
+      "notes": "する is an irregular verb."
     }
   ],
   [
@@ -3716,6 +3732,142 @@
       "spelling": "saishū teki ni",
       "keyboard": "saishuutekini",
       "notes": ""
+    },
+    {
+      "word": "出身",
+      "meaning": "where one is from",
+      "pronunciation": "shusshin",
+      "spelling": "shusshin",
+      "keyboard": "shusshinn",
+      "notes": ""
+    },
+    {
+      "word": "行きます",
+      "meaning": "to go",
+      "pronunciation": "ikimas",
+      "spelling": "ikimasu",
+      "keyboard": "ikimasu",
+      "notes": ""
+    },
+    {
+      "word": "来る",
+      "meaning": "to come",
+      "pronunciation": "kuru",
+      "spelling": "kuru",
+      "keyboard": "kuru",
+      "notes": "来る is an irregular verb."
+    },
+    {
+      "word": "飲みます",
+      "meaning": "to drink (formal)",
+      "pronunciation": "nomimas",
+      "spelling": "nomimasu",
+      "keyboard": "nomimasu",
+      "notes": "Formal form of 飲む"
+    },
+    {
+      "word": "飲む",
+      "meaning": "to drink",
+      "pronunciation": "nomu",
+      "spelling": "nomu",
+      "keyboard": "nomu",
+      "notes": ""
+    },
+    {
+      "word": "読みます",
+      "meaning": "to read",
+      "pronunciation": "yomimas",
+      "spelling": "yomimasu",
+      "keyboard": "yomimasu",
+      "notes": "Formal form of 読む"
+    },
+    {
+      "word": "読む",
+      "meaning": "to read",
+      "pronunciation": "yomu",
+      "spelling": "yomu",
+      "keyboard": "yomu",
+      "notes": ""
+    },
+    {
+      "word": "食べる",
+      "meaning": "to eat",
+      "pronunciation": "taberu",
+      "spelling": "taberu",
+      "keyboard": "taberu",
+      "notes": ""
+    },
+    {
+      "word": "食べます",
+      "meaning": "to eat (formal)",
+      "pronunciation": "tabemas",
+      "spelling": "tabemasu",
+      "keyboard": "tabemasu",
+      "notes": "Formal form of 食べる"
+    },
+    {
+      "word": "見る",
+      "meaning": "to see",
+      "pronunciation": "miru",
+      "spelling": "miru",
+      "keyboard": "miru",
+      "notes": ""
+    },
+    {
+      "word": "見ます",
+      "meaning": "to see (formal)",
+      "pronunciation": "mimas",
+      "spelling": "mimasu",
+      "keyboard": "mimasu",
+      "notes": "Formal form of 見る"
+    },
+    {
+      "word": "寝る",
+      "meaning": "to sleep",
+      "pronunciation": "neru",
+      "spelling": "neru",
+      "keyboard": "neru",
+      "notes": ""
+    },
+    {
+      "word": "寝ます",
+      "meaning": "to sleep (formal)",
+      "pronunciation": "nemas",
+      "spelling": "nemasu",
+      "keyboard": "nemasu",
+      "notes": "Formal form of 寝る."
+    },
+    {
+      "word": "聞く",
+      "meaning": "to listen",
+      "pronunciation": "kiku",
+      "spelling": "kiku",
+      "keyboard": "kiku",
+      "notes": "Root word is 聞き."
+    },
+    {
+      "word": "聞きます",
+      "meaning": "to listen (formal)",
+      "pronunciation": "kikimas",
+      "spelling": "kikimasu",
+      "keyboard": "kikimasu",
+      "notes": "Formal form of 聞く. Root word is 聞き."
+    },
+    {
+      "word": "書きます",
+      "meaning": "to write (formal)",
+      "pronunciation": "kakimas",
+      "spelling": "kakimasu",
+      "keyboard": "kakimasu",
+      "notes": "Formal form of かく. Root word is 書き (kaki)"
+    },
+    {
+      "word": "描きます",
+      "meaning": "to draw (formal)",
+      "pronunciation": "kakimas",
+      "spelling": "kakimasu",
+      "keyboard": "kakimasu",
+      "notes": "Formal form of かく. Root word is 描き (kaki)"
     }
   ],
   [
@@ -3818,11 +3970,11 @@
       "keyboard": "yojidesu."
     },
     {
-      "word": "トイレはどくですか。",
+      "word": "トイレはどこですか。",
       "meaning": "Where's the bathroom?",
-      "pronunciation": "toirewa, dokudeska?",
-      "spelling": "toirewadokudesuka.",
-      "keyboard": "toirehadokudesuka."
+      "pronunciation": "toirewa, dokodeska?",
+      "spelling": "toirewadokodesuka.",
+      "keyboard": "toirehadokodesuka."
     },
     {
       "word": "メニュー、お願いします。",
