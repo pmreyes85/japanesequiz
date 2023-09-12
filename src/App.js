@@ -72,6 +72,7 @@ function Values() {
   const [currentLength, setCurrentLength] = useState(shuffledArray.length);
   const [currentWord, setCurrentWord] = useState(shuffledArray[wordIndex]);
   const [answerVisible, setAnswerVisible] = useState(false);
+  const [filter, setFilter] = useState("")
 
   function showPrevWord() {
     var i = getPrevWordIndex(wordIndex,listIndex);

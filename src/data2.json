@@ -6,7 +6,7 @@
         "spelling": "tatsu",
         "keyboard": "tatsu",
         "tags": [
-            "h-word"
+            "hiragana,word,verb"
         ]
     },
     {
@@ -16,7 +16,7 @@
         "spelling": "ge",
         "keyboard": "ge",
         "tags": [
-            "h-char"
+            "hiragana,char"
         ]
     },
     {
@@ -26,7 +26,7 @@
         "spelling": "a",
         "keyboard": "a ",
         "tags": [
-            "k-char"
+            "katakana,char"
         ]
     },
     {
@@ -36,7 +36,7 @@
         "spelling": "living room",
         "keyboard": "ribinngu",
         "tags": [
-            "k-word"
+            "katakana,word"
         ]
     }
 ]

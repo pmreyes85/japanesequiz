@@ -76,7 +76,7 @@
       "pronunciation": "ga",
       "spelling": "ga",
       "keyboard": "ga",
-      "notes": "Object marking particle."
+      "notes": "Topic marking particle."
     },
     {
       "word": "ぎ",
@@ -1190,8 +1190,8 @@
     {
       "word": "おかね",
       "meaning": "money",
-      "pronunciation": "okane",
-      "spelling": "okane",
+      "pronunciation": "o-kane",
+      "spelling": "o-kane",
       "keyboard": "okane"
     },
     {
@@ -1864,7 +1864,8 @@
       "meaning": "but",
       "pronunciation": "demo",
       "spelling": "demo",
-      "keyboard": "demo"
+      "keyboard": "demo",
+      "notes": "Usually used with a comma: でも、"
     },
     {
       "word": "〜も",
@@ -1955,12 +1956,28 @@
       "notes": "Verb used to talk about the existence of animated objects like people or animals"
     },
     {
+      "word": "いません",
+      "meaning": "doesn't exist or don't have",
+      "pronunciation": "imasen",
+      "spelling": "imasen",
+      "keyboard": "imasen",
+      "notes": "Negative form of います"
+    },
+    {
       "word": "あります",
       "meaning": "to exist or to have",
       "pronunciation": "arimas",
       "spelling": "arimasu",
       "keyboard": "arimasu",
       "notes": "Verb used to talk about the existence of something."
+    },
+    {
+      "word": "ありません",
+      "meaning": "doesn't exist or don't have",
+      "pronunciation": "arimasen",
+      "spelling": "arimasen",
+      "keyboard": "arimasenn",
+      "notes": "Negative form of あります"
     },
     {
       "word": "じかん",
@@ -1976,6 +1993,163 @@
       "pronunciation": "ocha",
       "spelling": "ocha",
       "keyboard": "ocha",
+      "notes": ""
+    },
+    {
+      "word": "さかな",
+      "meaning": "fish",
+      "pronunciation": "sakana",
+      "spelling": "sakana",
+      "keyboard": "sakana",
+      "notes": ""
+    },
+    {
+      "word": "にく",
+      "meaning": "meat",
+      "pronunciation": "niku",
+      "spelling": "niku",
+      "keyboard": "niku",
+      "notes": ""
+    },
+    {
+      "word": "くるま",
+      "meaning": "car",
+      "pronunciation": "kuruma",
+      "spelling": "kuruma",
+      "keyboard": "kuruma",
+      "notes": ""
+    },
+    {
+      "word": "ほしいです",
+      "meaning": "I want",
+      "pronunciation": "hoshiides",
+      "spelling": "hoshiidesu",
+      "keyboard": "hoshiidesu",
+      "notes": "Always used when I is the topic"
+    },
+    {
+      "word": "たいです",
+      "meaning": "I want to...",
+      "pronunciation": "taides",
+      "spelling": "taidesu",
+      "keyboard": "taidesu",
+      "notes": "Verb root word + たいです = I want to <verb>. 飲みたいです means I want to drink."
+    },
+    {
+      "word": "あるきます",
+      "meaning": "to walk",
+      "pronunciation": "arukimas",
+      "spelling": "arukimasu",
+      "keyboard": "arukimasu",
+      "notes": ""
+    },
+    {
+      "word": "わたります",
+      "meaning": "to cross",
+      "pronunciation": "watarimas",
+      "spelling": "watarimasu",
+      "keyboard": "watarimasu",
+      "notes": ""
+    },
+    {
+      "word": "まがります",
+      "meaning": "to turn",
+      "pronunciation": "magarimas",
+      "spelling": "magarimasu",
+      "keyboard": "magarimasu",
+      "notes": ""
+    },
+    {
+      "word": "とびます",
+      "meaning": "to fly",
+      "pronunciation": "tobimas",
+      "spelling": "tobimasu",
+      "keyboard": "tobimasu",
+      "notes": ""
+    },
+    {
+      "word": "こうえん",
+      "meaning": "park",
+      "pronunciation": "kooen",
+      "spelling": "kōen",
+      "keyboard": "kouenn",
+      "notes": ""
+    },
+    {
+      "word": "うみ",
+      "meaning": "sea",
+      "pronunciation": "umi",
+      "spelling": "umi",
+      "keyboard": "umi",
+      "notes": ""
+    },
+    {
+      "word": "およぎます",
+      "meaning": "to swim",
+      "pronunciation": "oyogimas",
+      "spelling": "oyogimasu",
+      "keyboard": "oyogimasu",
+      "notes": ""
+    },
+    {
+      "word": "にほん",
+      "meaning": "Japan",
+      "pronunciation": "nihon",
+      "spelling": "nihon",
+      "keyboard": "nihonn",
+      "notes": ""
+    },
+    {
+      "word": "ともだち",
+      "meaning": "friend",
+      "pronunciation": "tomodachi",
+      "spelling": "tomodachi",
+      "keyboard": "tomodachi",
+      "notes": ""
+    },
+    {
+      "word": "はは",
+      "meaning": "mother",
+      "pronunciation": "haha",
+      "spelling": "haha",
+      "keyboard": "haha",
+      "notes": ""
+    },
+    {
+      "word": "おきます",
+      "meaning": "to wake up",
+      "pronunciation": "okimas",
+      "spelling": "okimasu",
+      "keyboard": "okimasu",
+      "notes": ""
+    },
+    {
+      "word": "こんしゅう",
+      "meaning": "next week",
+      "pronunciation": "konshuu",
+      "spelling": "konshū",
+      "keyboard": "konnshuu"
+    },
+    {
+      "word": "らいねん",
+      "meaning": "next year",
+      "pronunciation": "rainen",
+      "spelling": "rainen",
+      "keyboard": "rainen"
+    },
+    {
+      "word": "いま",
+      "meaning": "now",
+      "pronunciation": "ima",
+      "spelling": "ima",
+      "keyboard": "ima"
+    },
+    {
+      "word": "はしります",
+      "meaning": "to run",
+      "pronunciation": "hashirimas",
+      "spelling": "hashirimasu",
+      "keyboard": "hashirimasu",
       "notes": ""
     }
   ],
@@ -3382,6 +3556,14 @@
       "spelling": "petto",
       "keyboard": "petto",
       "notes": ""
+    },
+    {
+      "word": "コンビニ",
+      "meaning": "convenience store",
+      "pronunciation": "konbini",
+      "spelling": "konbini",
+      "keyboard": "konnbini",
+      "notes": ""
     }
   ],
   [
@@ -3928,14 +4110,6 @@
       "notes": "Always used when I is the topic"
     },
     {
-      "word": "たいです",
-      "meaning": "I want to...",
-      "pronunciation": "taides",
-      "spelling": "taidesu",
-      "keyboard": "taidesu",
-      "notes": "Verb root word + たいです = I want to <verb>. 飲みたいです means I want to drink."
-    },
-    {
       "word": "時間",
       "meaning": "time",
       "pronunciation": "jikan",
@@ -3949,6 +4123,211 @@
       "pronunciation": "ocha",
       "spelling": "ocha",
       "keyboard": "ocha",
+      "notes": ""
+    },
+    {
+      "word": "肉",
+      "meaning": "meat",
+      "pronunciation": "niku",
+      "spelling": "niku",
+      "keyboard": "niku",
+      "notes": ""
+    },
+    {
+      "word": "魚",
+      "meaning": "fish",
+      "pronunciation": "sakana",
+      "spelling": "sakana",
+      "keyboard": "sakana",
+      "notes": ""
+    },
+    {
+      "word": "お金",
+      "meaning": "money",
+      "pronunciation": "o-kane",
+      "spelling": "o-kane",
+      "keyboard": "okane",
+      "notes": ""
+    },
+    {
+      "word": "嫌い",
+      "meaning": "hate",
+      "pronunciation": "kirai",
+      "spelling": "kirai",
+      "keyboard": "kirai",
+      "notes": ""
+    },
+    {
+      "word": "好き",
+      "meaning": "to like",
+      "pronunciation": "suki",
+      "spelling": "suki",
+      "keyboard": "suki",
+      "notes": ""
+    },
+    {
+      "word": "車",
+      "meaning": "car",
+      "pronunciation": "kuruma",
+      "spelling": "kuruma",
+      "keyboard": "kuruma",
+      "notes": ""
+    },
+    {
+      "word": "寿司",
+      "meaning": "sushi",
+      "pronunciation": "sushi",
+      "spelling": "sushi",
+      "keyboard": "sushi",
+      "notes": ""
+    },
+    {
+      "word": "歩きます",
+      "meaning": "to walk",
+      "pronunciation": "arukimas",
+      "spelling": "arukimasu",
+      "keyboard": "arukimasu",
+      "notes": ""
+    },
+    {
+      "word": "渡ります",
+      "meaning": "to cross",
+      "pronunciation": "watarimas",
+      "spelling": "watarimasu",
+      "keyboard": "watarimasu",
+      "notes": ""
+    },
+    {
+      "word": "曲がります",
+      "meaning": "to turn",
+      "pronunciation": "magarimas",
+      "spelling": "magarimasu",
+      "keyboard": "magarimasu",
+      "notes": ""
+    },
+    {
+      "word": "飛びます",
+      "meaning": "to fly",
+      "pronunciation": "tobimas",
+      "spelling": "tobimasu",
+      "keyboard": "tobimasu",
+      "notes": ""
+    },
+    {
+      "word": "公園",
+      "meaning": "park",
+      "pronunciation": "kooen",
+      "spelling": "kōen",
+      "keyboard": "kouenn",
+      "notes": ""
+    },
+    {
+      "word": "橋",
+      "meaning": "bridge",
+      "pronunciation": "hashi (fast)",
+      "spelling": "hashi",
+      "keyboard": "hashi",
+      "notes": ""
+    },
+    {
+      "word": "海",
+      "meaning": "sea",
+      "pronunciation": "umi",
+      "spelling": "umi",
+      "keyboard": "umi",
+      "notes": ""
+    },
+    {
+      "word": "泳ぎます",
+      "meaning": "to swim",
+      "pronunciation": "oyogimas",
+      "spelling": "oyogimasu",
+      "keyboard": "oyogimasu",
+      "notes": ""
+    },
+    {
+      "word": "木",
+      "meaning": "tree",
+      "pronunciation": "ki",
+      "spelling": "ki",
+      "keyboard": "ki",
+      "notes": "Uses the same Kanji for wood."
+    },
+    {
+      "word": "日本",
+      "meaning": "Japan",
+      "pronunciation": "nihon",
+      "spelling": "nihon",
+      "keyboard": "nihon",
+      "notes": ""
+    },
+    {
+      "word": "友達",
+      "meaning": "friend",
+      "pronunciation": "tomodachi",
+      "spelling": "tomodachi",
+      "keyboard": "tomodachi",
+      "notes": ""
+    },
+    {
+      "word": "母",
+      "meaning": "mother",
+      "pronunciation": "haha",
+      "spelling": "haha",
+      "keyboard": "haha",
+      "notes": ""
+    },
+    {
+      "word": "すみます",
+      "meaning": "to live",
+      "pronunciation": "sumimas",
+      "spelling": "sumimasu",
+      "keyboard": "sumimasu",
+      "notes": ""
+    },
+    {
+      "word": "つとめます",
+      "meaning": "to work for",
+      "pronunciation": "tsutomemas",
+      "spelling": "tsutomemasu",
+      "keyboard": "tsutomemasu",
+      "notes": ""
+    },
+    {
+      "word": "起きます",
+      "meaning": "to wake up",
+      "pronunciation": "okimas",
+      "spelling": "okimasu",
+      "keyboard": "okimasu",
+      "notes": ""
+    },
+    {
+      "word": "今日",
+      "meaning": "today",
+      "pronunciation": "kyoh",
+      "spelling": "kyō",
+      "keyboard": "kyou"
+    },
+    {
+      "word": "今週",
+      "meaning": "next week",
+      "pronunciation": "konshuu",
+      "spelling": "konshū",
+      "keyboard": "konnshuu"
+    },
+    {
+      "word": "来年",
+      "meaning": "next year",
+      "pronunciation": "rainen",
+      "spelling": "rainen",
+      "keyboard": "rainenn"
+    },
+    {
+      "word": "走ります",
+      "meaning": "to run",
+      "pronunciation": "hashirimas",
+      "spelling": "hashirimasu",
+      "keyboard": "hashirimasu",
       "notes": ""
     }
   ],
@@ -4143,7 +4522,7 @@
     },
     {
       "word": "宿題があります。",
-      "meaning": "I have a homework",
+      "meaning": "I have homework",
       "pronunciation": "shukudai ga arimas.",
       "spelling": "shukudai ga arimasu.",
       "keyboard": "shukudaigaarimasu.",
